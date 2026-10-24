@@ -1,0 +1,5 @@
+from ai_policy_impact.cli import main
+
+
+if __name__ == "__main__":
+    main()

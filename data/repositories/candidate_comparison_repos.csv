@@ -1,0 +1,210 @@
+repository,language,stars,owner_type,created_at,pushed_at,prs_past_year,description
+yairm210/Unciv,Kotlin,11467,User,2017-11-21,2026-10-19,1293,Open-source Android/Desktop remake of Civ V
+opencv/opencv,C++,91235,Organization,2012-07-19,2026-10-19,1933,Open Source Computer Vision Library
+dani-garcia/vaultwarden,Rust,69320,User,2018-02-17,2026-10-16,374,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs"
+getlantern/lantern,Dart,16435,Organization,2011-02-17,2026-10-20,716,"Open-source VPN for speed, privacy, and censorship circumvention. Free to download on Android, iOS, Windows, macOS, and Linux."
+bytedance/UI-TARS-desktop,TypeScript,39338,Organization,2025-01-19,2026-10-09,184,The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+hyprwm/Hyprland,C++,38929,Organization,2022-03-16,2026-10-19,1485,"Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks."
+dragonflydb/dragonfly,C++,31798,Organization,2021-12-11,2026-10-19,1987,A modern replacement for Redis and Memcached
+LadybirdBrowser/ladybird,C++,66580,Organization,2024-05-30,2026-10-19,5444,Truly independent web browser
+lightpanda-io/browser,Zig,36755,Organization,2023-02-07,2026-10-20,2536,Lightpanda: the headless browser designed for AI and automation
+BabylonJS/Babylon.js,TypeScript,26196,Organization,2013-06-27,2026-10-19,1612,"Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework."
+apache/maven,Java,5380,Organization,2009-05-21,2026-10-20,1992,Apache Maven core
+nitrojs/nitro,TypeScript,11293,Organization,2022-01-26,2026-10-19,814,Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
+rime/weasel,C++,8184,Organization,2012-03-20,2026-10-20,70,【小狼毫】Rime for Windows
+manticoresoftware/manticoresearch,C++,12063,Organization,2017-06-28,2026-10-19,782,"Open-source search database for full-text, vector, and hybrid search with real-time indexing and SQL."
+openwrt/openwrt,C,28828,Organization,2015-11-09,2026-10-19,4344,This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
+nushell/nushell,Rust,40691,Organization,2019-05-10,2026-10-19,1592,A new type of shell
+openfga/openfga,Go,6005,Organization,2022-06-08,2026-10-19,528,A high-performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar.
+nuclio/nuclio,Go,5766,Organization,2017-05-19,2026-10-19,577,High-Performance Serverless event and data processing platform
+browser-use/browser-use,Python,118548,Organization,2024-10-31,2026-10-17,2049,"Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API."
+surrealdb/surrealdb,Rust,33209,Organization,2021-12-09,2026-10-19,583,"A scalable, distributed, collaborative, document-graph database, for the realtime web"
+HarbourMasters/Shipwright,C,5682,Organization,2022-03-22,2026-10-19,1142,
+Automattic/harper,Rust,16787,Organization,2023-10-22,2026-10-19,1488,"Offline, privacy-first grammar checker. Fast, open-source, Rust-powered"
+wlrfx/swayfx,C,2423,Organization,2021-10-18,2026-10-18,77,"SwayFX: Sway, but with eye candy!"
+FoundationAgents/OpenManus,Python,58737,Organization,2025-03-06,2026-09-30,130,"No fortress, purely open ground. OpenManus is Coming."
+ayangweb/BongoCat,Rust,24030,User,2025-03-28,2026-10-19,177,🐱 BongoCat — A cross-platform interactive desktop pet that brings fun to your desktop!
+openwong2kim/wmux,TypeScript,431,User,2026-03-20,2026-10-20,1966,The ADE for AI agents. Automate everything else. Do your true work.
+pthm/melange,Go,102,User,2026-01-03,2026-10-20,85,"OpenFGA-to-PostgreSQL authorization compiler. Generates specialized SQL functions from .fga schemas that query your existing tables. Zero sync, always consistent."
+dlunch/wie,Rust,204,User,2023-02-05,2026-10-19,445,WIPI/SKVM/J2ME Emulator
+robertpiosik/CodeWebChat,TypeScript,1406,User,2024-11-20,2026-10-20,19,Blazing fast AI coding with static context
+shreyashsaitwal/rush-cli,Dart,54,User,2020-12-07,2026-10-19,14,:zap: A new and improved way of building MIT AI2 extensions.
+langbot-app/LangBot,Python,18289,Organization,2022-12-07,2026-10-19,655,"Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台/ Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Matrix e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Gemini, GLM, Ollama, SiliconFlow, Kimi, openclaw / hermes agent, deerflow"
+autobib/nucleo-picker,Rust,38,Organization,2024-08-20,2026-10-19,49,a performant and unicode-aware fuzzy picker tui library for rust
+actix/actix-web,Rust,24871,Organization,2017-09-30,2026-10-19,456,"Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust."
+squirrelscan/squirrelscan,TypeScript,286,Organization,2026-01-02,2026-10-20,623,"The website QA tool for your coding agent. 300+ audit rules across SEO, performance, security, accessibility and agent experience."
+KDE/kwin,C++,706,Organization,2015-09-18,2026-10-19,0,"Easy to use, but flexible, Wayland Compositor"
+MrAbolfazlNorouzi/iran-configs,Python,31,User,2025-09-02,2026-10-19,0,v2ray server
+harlan-zw/harlan-agent-kit,TypeScript,13,User,2026-01-11,2026-10-19,574,Personal agent plugin for Nuxt/Vue/TS development
+colophon-group/jobseek,Python,208,Organization,2026-02-18,2026-10-19,5274,Monitors company career pages for new job postings and surfaces them in a single dashboard.
+goforj/godump,Go,1768,Organization,2025-05-26,2026-10-17,22,"A minimal, developer-friendly pretty-printer and debug dumper for Go structs, inspired by Laravel’s dump() and Symfony’s VarDumper."
+stripe/ai,TypeScript,1963,Organization,2024-11-11,2026-10-20,304,One-stop shop for building AI-powered products and businesses with Stripe.
+Extra-Chill/data-machine,PHP,39,Organization,2025-04-05,2026-10-20,2002,Agentic operating system for WordPress.
+seaweedfs/seaweedfs,Go,35605,Organization,2014-07-14,2026-10-20,3270,"SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling."
+motioneye-project/motioneye,Python,4717,Organization,2015-08-30,2026-10-19,194,A web frontend for the motion daemon.
+spydisec/spydithreatintel,,59,User,2025-01-16,2026-10-20,0,"Spydi ThreatIntel Feed is built on open-source threat intelligence, community-maintained blocklists, and public security research."
+taksssss/tv,Python,89,User,2024-09-04,2026-10-19,2,epg mirrors
+BOTOOM/google-antigravity-bin-arch,Shell,69,User,2025-11-26,2026-10-17,60,Automated Arch Linux installer for Google Antigravity 2 IDE. Provides quick one-line installation via curl and local build options. Updated automatically every 5 hours.
+LucasLarson/dotfiles,Shell,134,User,2019-08-31,2026-10-17,58,This is where the ♥️ is at.
+sou350121/Agent-Playbook,PowerShell,13,User,2025-12-20,2026-10-20,2,⚗️ AI Agent 生态每天海量资讯，99% 是噪音。这个仓库只做一件事：把最新碎片信号提纯为你能直接用的架构导轨、设计模式和工程实践。
+silasfelinus/kind_robots,TypeScript,11,User,2023-07-04,2026-10-20,3702,"Modular NLP Promptbots using Vue 3.2, Nuxt 3, Prisma, and Nuxt Content"
+HankNovic/ProxyClean,,94,User,2026-03-19,2026-10-20,0,专注国内可用的免费 Socks5 代理池：多源抓取、连续包活检测，长期维护一份高质量国内可用代理列表
+jay0lee/google-api-tracker,Shell,13,User,2019-04-14,2026-10-20,0,
+flow2000/bing-wallpaper-api,Python,123,User,2022-08-23,2026-10-20,3,必应壁纸api
+Glitch31415/rws,,52,User,2023-02-15,2026-10-20,1,"Radio Web Services project, which allows internet access over ham radio"
+randomwalkhan/Short-Term-Reversal-Strategy,Jupyter Notebook,262,User,2025-07-23,2026-10-20,5,"Python-based quant trading research project for short-term reversal option setups, universe selection, staged-entry backtesting, and live paper trading."
+Lemkinator/Sudoku,Kotlin,45,User,2022-09-20,2026-10-18,148,A Sudoku app with OneUI-Design.
+projectbeskar/virtrigaud,Go,33,Organization,2025-08-20,2026-10-19,281,A Kubernetes operator for managing virtual machines across multiple hypervisors.
+indieweb/indieweb-chat-archive,PHP,17,Organization,2017-12-01,2026-10-20,38,Full archive of IndieWeb chat log data files
+du5/geoip,Shell,39,User,2020-02-12,2026-10-20,0,数据来源: http://maxmind.com
+ucscGenomeBrowser/kent,C,280,Organization,2015-04-09,2026-10-20,2,"UCSC Genome Browser source. ""beta"" is released version / ""master"" is testing."
+vmheaven/VMHeaven.io-Free-Proxy-List,,48,User,2025-02-15,2026-10-20,0,"Fresh list of HTTP/S & SOCKS4/SOCKS5 Proxies, Amazon excluded, Updating every 15 minutes!"
+downthecrop/2009scape-mirror,Kotlin,13,User,2021-08-18,2026-10-20,0,Mirror of 2009scape GitLab so I can get some nice little green boxes on my profile. For bug reports and pull requests please use the offical Gitlab repo below.
+di/pyreadiness,HTML,50,User,2018-11-15,2026-10-20,11,Python support graph for specific Python versions for the most popular Python packages
+commonfabric/labs,TypeScript,55,Organization,2024-05-10,2026-10-20,6943,The Common Fabric runtime.
+GeyserMC/GeyserWebsite,Markdown,14,Organization,2024-03-04,2026-10-20,102,Source code for the GeyserMC Website
+bernd/vibepit,Go,23,User,2025-10-09,2026-10-19,20,Run AI coding agents in isolated containers with network filtering.
+78/xiaozhi-esp32,C++,31553,User,2024-08-31,2026-10-19,451,An MCP-based chatbot | 一个基于MCP的聊天机器人
+cctbx/cctbx_project,Python,300,Organization,2015-07-22,2026-10-19,114,Computational Crystallography Toolbox
+TheEconomist/the-economist-war-fire-model,R,280,Organization,2023-02-21,2026-10-20,0,Source code and data for The Economist's Ukraine war-fire model
+Dicklesworthstone/doodlestein_self_releaser,Shell,77,User,2026-01-30,2026-10-20,0,"Local release tool that reuses your GitHub Actions workflow YAML to build via nektos/act when CI queues are throttled, then uploads artifacts to GitHub Releases"
+palantir/encrypted-config-value,Java,31,Organization,2015-12-04,2026-10-19,210,Tooling for encrypting certain configuration parameter values in dropwizard apps
+drmlive/fancode-live-events,,46,User,2024-08-25,2026-10-20,1,
+SysAdminDoc/CallShield,Kotlin,52,User,2026-03-22,2026-10-20,9,"Open-source spam call and text blocker for Android. GitHub-hosted spam database, no API keys, no subscriptions."
+cmzmasek/archaeopteryx-js,JavaScript,43,User,2016-09-09,2026-10-20,2,Archaeopteryx.js is a software tool for the visualization and analysis of highly annotated phylogenetic trees.
+freelawproject/courtlistener,Python,1047,Organization,2014-07-25,2026-10-20,929,"A fully-searchable and accessible archive of court data including growing repositories of opinions, oral arguments, judges, judicial financial records, and federal filings."
+salilab/imp,C++,81,Organization,2012-06-21,2026-10-17,12,The Integrative Modeling Platform
+apache/kudu,C++,1914,Organization,2016-01-29,2026-10-17,5,Mirror of Apache Kudu
+danp/nspoweroutages,Go,12,User,2020-12-26,2026-10-20,0,Git scraping of the Nova Scotia Power Outage Map
+TrainLCD/MobileApp,TypeScript,75,Organization,2019-10-26,2026-10-20,2585,"🚃 TrainLCD is a mobile application that simulates Japanese railway company LCDs, providing real-time navigation and station information for train passengers."
+Chiplis/ironsmith,Rust,14,User,2026-03-18,2026-10-19,885,
+macula-io/macula,Erlang,19,Organization,2025-11-08,2026-10-19,9,"A sovereign peer-to-peer mesh for the BEAM: QUIC transport, DHT discovery, RPC and pubsub, no cloud in the data path"
+78/esp-ml307,C++,89,User,2024-09-28,2026-10-17,23,ESP32 ML307 AT Modem
+getgrav/grav-learn,PHP,249,Organization,2014-08-04,2026-10-17,24,Grav Learn (exhaustive grav documentation)
+xai-org/x-algorithm,Rust,33690,Organization,2026-01-19,2026-10-17,199,Algorithm powering the For You feed on X
+milkory/rsns-data,Lua,13,User,2024-03-12,2026-10-20,0,
+FruitieX/homectl,Rust,109,User,2020-02-08,2026-10-19,160,A simple home automation server written in Rust
+siefkenj/MailMergeP,TypeScript,20,User,2019-01-12,2026-10-17,5,Mail Merge P add-on for Thunderbird
+elementary-data/elementary-tutorial,Python,11,Organization,2022-10-24,2026-10-20,1,Playground dbt project to demonstrate Elementary's capabilities.
+buraksocial/IgnisDB,Python,53,User,2025-06-10,2026-10-20,6,"An asynchronous, single-threaded, in-memory Key-Value store built on Python's asyncio event loop. Implements a non-blocking TCP server and a RESP-like protocol."
+ia-toki/judgels,Java,151,Organization,2018-07-11,2026-10-18,276,Modern programming contest system
+luc1k1/luc1k1,Python,13,User,2024-03-08,2026-10-19,1,Config files for my GitHub profile.
+Far-Beyond-Pulsar/Pulsar-Native,Rust,398,Organization,2025-09-15,2026-10-19,418,The next-generation game engine that you deserve implemented in rust https://pulsarnative.com/ Developer_Blogs: https://pulsarnative.com/blog/ Research: https://pulsarnative.com/Research/ UI-Framework: https://pulsarnative.com/UI/
+mehmetkose/react-websocket,TypeScript,345,User,2015-07-29,2026-10-19,69,Easy-to-use React component for websocket communications.
+languitar/autosuspend,Python,92,User,2015-11-14,2026-10-17,196,A daemon to automatically suspend and wake up a system
+mirego/elixir-security-advisories,Elixir,130,Organization,2022-08-09,2026-10-17,1,🛡 Public database of Elixir security advisories pulled from GitHub Advisory Database
+hello-world-1989/cn-news,,630,User,2023-03-25,2026-10-20,0,"V2Ray Clash订阅链接, Outline, 大翻墙运动, 拆除防火墙,拆墙运动,李老师不是你老师 推文 每小时更新 , 完全免费vpn, 免费科学上网, 翻墙,科学上网,免费翻墙, 免费VPN,开源vpn, free vpn,好用VPN"
+aws-samples/sample-connector-for-bedrock,TypeScript,104,Organization,2024-05-09,2026-10-20,63,"Seamlessly invoke Amazon Bedrock or your custom models, enabling a smooth experience with AWS GenAI services."
+antonio-bravo/m3u,HTML,11,User,2026-04-04,2026-10-20,46,
+openthread/ot-reference-release,Python,13,Organization,2021-05-10,2026-10-17,29,
+rmagick/rmagick,C++,731,Organization,2014-07-24,2026-10-19,301,Ruby bindings for ImageMagick
+catenarytransit/catenary-web,Svelte,32,Organization,2024-01-05,2026-10-19,44,
+Roguelike-Celebration/azure-mud,TypeScript,198,Organization,2020-07-08,2026-10-19,88,
+Joelis57/MyDubList,Python,26,User,2025-07-30,2026-10-20,3,"MyDubList is an open-source database of anime dubs in multiple languages, updated daily from trusted sources."
+juergen2025sys/NETSHIELD,Python,17,User,2026-02-28,2026-10-20,34,Automated IPv4 threat intelligence: combined blacklist from 100+ feeds with confidence scoring. Updated every 3h.
+irmen/prog8,Kotlin,204,User,2019-01-09,2026-10-19,7,high level programming language and compiler targeting 6502 machines such as the C-64 and CommanderX16
+vicliu624/trail-mate,C++,552,User,2026-01-18,2026-10-17,51,"Trail Mate is an offline‑first handheld system for GPS navigation, LoRa communication, and real‑time team situational awareness in no‑network environments."
+Nimblesite/SharpLsp,TypeScript,161,Organization,2026-03-20,2026-10-20,218,
+HubSpot/HubSpot-public-api-spec-collection,,46,Organization,2023-08-17,2026-10-20,21,
+HakanSeven12/OpenCADStudio,Rust,3325,User,2026-03-22,2026-10-19,670,"A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering"
+linuxserver/docker-kimai,Dockerfile,28,Organization,2023-08-09,2026-10-19,3,
+learning-commons-org/evaluators,TypeScript,86,Organization,2025-09-22,2026-10-20,369,"Evaluation for AI outputs against trusted educational rubrics. Measure and improve content quality with research-backed rubrics — ensuring rigor, reliability, and alignment to classroom needs."
+jdx/demand,Rust,266,User,2023-12-15,2026-10-19,134,prompt library for rust
+pingdotgg/t3code,TypeScript,28639,Organization,2026-02-08,2026-10-20,14774,
+truenas/webui,TypeScript,541,Organization,2017-05-02,2026-10-20,1802,TrueNAS UI
+radixark/miles,Python,3169,Organization,2025-10-09,2026-10-20,3871,"Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime."
+MarlinFirmware/Marlin,C++,17626,Organization,2011-08-13,2026-10-18,441,Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers. Marlin supports all common platforms. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
+airbytehq/airbyte-platform,Kotlin,313,Organization,2023-01-24,2026-10-19,18,The platform that powers Airbyte. Please file issues in https://github.com/airbytehq/airbyte
+nextcloud/bookmarks,JavaScript,1220,Organization,2013-04-09,2026-10-19,197,🔖 Bookmark app for Nextcloud
+erlef/otp_builds,Shell,51,Organization,2024-09-06,2026-10-20,25,Community-maintained pre-compiled Erlang/OTP for macOS
+kdcube/kdcube,Python,26,Organization,2025-08-20,2026-10-19,371,"Open-source, self-hosted runtime and SDK for AI applications. One tenant/project deployment serves many users and apps with governed tools, scoped credentials, isolated generated code, and cost controls."
+dlclark/regexp2cg,Go,23,User,2024-07-05,2026-10-17,0,Static Regexp code generation in pure Go
+easylist/easylist,Adblock Filter List,3167,Organization,2016-05-15,2026-10-20,1770,"EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)"
+JJGadgets/Biohazard,Lua,91,User,2022-04-11,2026-10-19,4672,Glorifying jank that works | JJGadgets' HomeLab monorepo
+meshtastic/Meshtastic-Android,Kotlin,1880,Organization,2020-01-20,2026-10-19,3667,Android application for Meshtastic
+thisusercannotexist/auto-push,Python,17,User,2025-04-22,2026-10-19,3,Auto update a file content and push it directly to the repository
+foolish-pine/static-site-boilerplate-astro,JavaScript,13,User,2023-01-28,2026-10-19,361,Astro starter kit for static site development.
+dna-seq/just-dna-lite,Python,141,Organization,2025-07-28,2026-10-19,16,lite and fast version of just-dna-seq personalized genomic platform
+itsyebekhe/rasadai,HTML,22,Organization,2026-01-24,2026-10-19,5,Iran News Intel
+vczh-libraries/GacUI,C++,2702,Organization,2015-04-01,2026-10-20,2,"Native C++ UI library, cross-platform, MVVM and data binding, XML description, multi-language, core/renderer cross-process separation, etc"
+Ramble-Project/ramble,Python,72,Organization,2022-12-15,2026-10-19,582,A multi-platform experimentation framework written in python.
+rstacruz/agentic-toolkit,Shell,14,User,2025-11-16,2026-10-19,15,
+unarbos/arbos,Rust,30,User,2026-03-18,2026-10-20,881,"Arbos is a coding agent for one project. Talk to Main, watch workers, keep the work in one place."
+LITUATUI/M3UPT,Shell,657,User,2021-12-20,2026-10-20,32,IPTV playlist in M3U format with TV and radio stations in Portuguese. Public and official streams only. Made in 🇵🇹 Portugal.
+therungg/therun-frontend,TypeScript,31,User,2023-05-11,2026-10-19,72,Frontend for therun.gg
+archestra-ai/archestra,TypeScript,4378,Organization,2025-07-15,2026-10-20,7735,"Enterprise AI Platform with guardrails, MCP registry, gateway & orchestrator"
+technicalpickles/picklehome,Python,16,User,2017-10-30,2026-10-19,52,Configuration & Planning for my Home Automation systems
+getlantern/flashlight,Go,21,Organization,2014-04-21,2026-10-20,9,Core proxying component of the Lantern censorship circumvention tool.
+GMOogway/shadowrocket-rules,,5634,User,2023-01-25,2026-10-20,3,小火箭规则🚀，小火箭模块，小火箭配置，shadowrocket规则，shadowrocket rules，最全面的直连（DIRECT）、代理（PROXY）、屏蔽（REJECT）规则，自动构建，每日更新
+tensorflow/tensorflow,C++,201213,Organization,2015-11-07,2026-10-20,24194,An Open Source Machine Learning Framework for Everyone
+monozukuri-ai/ezdwg,Rust,25,Organization,2021-08-23,2026-10-17,8,Python interface to DWG
+akkana/scripts,Python,278,User,2012-08-15,2026-10-20,2,A collection of hopefully useful scripts.
+solidusio/solidus,Ruby,5344,Organization,2015-02-18,2026-10-20,330,"🛒 Solidus, the open-source eCommerce framework for industry trailblazers."
+smarter-sh/smarter,Python,13,Organization,2024-02-07,2026-10-19,352,"Kubernetes-style declarative infrastructure for AI Agents, LLMs, tools, APIs and enterprise workflows"
+samdickson22/clash-simulator,Python,12,User,2025-08-01,2026-10-19,2,
+inseven/diligence,Swift,21,Organization,2021-11-02,2026-10-19,27,SwiftUI About Screens
+Baskerville42/outage-data-ua,JavaScript,62,User,2025-11-06,2026-10-20,1,Публічне сховище даних про планові відключення електроенергії в Україні.
+fclairamb/solidping,Go,22,User,2026-03-22,2026-10-19,595,"Distributed, self-hostable uptime monitoring: 40 check types, multi-region workers, private agents, status pages, incidents and on-call escalation — in a single Go binary."
+wy876/SecAlerts,HTML,40,User,2025-08-08,2026-10-20,0,微信公众号安全漏洞文章链接聚合
+WeblateOrg/wlc,Python,47,Organization,2016-03-22,2026-10-18,809,Weblate command line client
+macports/macports-ports,Tcl,1854,Organization,2016-10-09,2026-10-20,6019,The MacPorts ports tree
+openxla/shardy,MLIR,213,Organization,2024-06-27,2026-10-20,857,MLIR-based partitioning system
+nambok/mentedb,Rust,119,User,2026-04-04,2026-10-19,469,"A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and speculative context pre assembly. Not a wrapper, a ground up storage engine that thinks."
+kottans/frontend-2022-homeworks,HTML,17,Organization,2022-05-30,2026-10-20,0,
+void-community/Void,C#,26,Organization,2023-12-03,2026-10-20,918,"🎮 Minecraft Proxy for Modded Servers — Docker, Kubernetes, anywhere."
+matz/spinel,C,2261,User,2026-03-25,2026-10-20,4999,Ruby AOT compiler
+nextcloud/assistant,JavaScript,92,Organization,2023-07-31,2026-10-20,237,✨ Nextcloud Assistant
+mthcht/awesome-lists,YARA,1947,User,2022-12-11,2026-10-20,18,Awesome Security lists for SOC/CERT/CTI
+claude89757/free_https_proxies,,33,User,2023-07-08,2026-10-20,0,Share some free https proxies from internet
+TG-NAV/clashnode,HTML,43,User,2024-12-06,2026-10-20,0,2025年最新免费节点clash，v2ray订阅链接地址
+usagov/usagov-2021,Shell,19,Organization,2021-04-20,2026-10-17,431,The content management system and supporting files for the USA.gov website
+cloudrift-ai/emmy,Python,110,Organization,2025-08-02,2026-10-20,1210,"Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel fusion, autotuning, and advanced scheduling. Run benchmarks across different GPU types and configurations, track results and share experiments with the community."
+WeAreFlowsta/Your-Own-AI,TypeScript,14,Organization,2026-03-31,2026-10-20,0,"Private AI on your machine - offline models, characters with memory, agentic projects, and signed records. No one in control but you."
+g-plane/markup_fmt,Rust,186,User,2023-10-13,2026-10-17,37,"Configurable HTML, Vue, Svelte, Astro, Angular, Jinja, Twig, Nunjucks, Vento, Mustache, Handlebars and XML formatter with dprint integration."
+sudosubin/agents.nix,Python,17,User,2026-02-04,2026-10-20,66355,Nixpkgs overlay for AI agent skills from skills.sh and skillsdirectory.com
+cshum/vipsgen,Go Template,267,User,2025-05-05,2026-10-18,41,Go binding generator for libvips image processing library
+pt-plugins/PT-depiler,TypeScript,2676,Organization,2022-06-05,2026-10-19,616,PT-depiler 是在原 PT-Plugin-Plus 基础上， 基于浏览器最新的 Manifest v3 标准开发的一款浏览器插件（Web Extensions）， 一个可以提升 PT 站点使用效率的工具。
+ROCm/hrx-system,C,59,Organization,2026-03-27,2026-10-20,2015,HRX: Hip Runtime Extended
+YuriPlanet/vera20k,Rust,117,Organization,2026-03-29,2026-10-20,1694,Red Alert 2: Yuri's Revenge rebuilt in Rust / 用 Rust 重写的《红警2：尤里的复仇》
+airframesio/data,Ruby,34,Organization,2019-11-08,2026-10-20,7,Centralization of source data for Airframes/Acars projects
+douglascrockford/Misty,JavaScript,71,User,2025-01-11,2026-10-18,28,"A secure, fully distributed actor language."
+zcash/zcash-devtool,Rust,26,Organization,2023-07-05,2026-10-17,112,CLI app for developers prototyping Zcash functionality.
+runelite/plugin-hub,,398,Organization,2019-12-12,2026-10-20,9693,External plugins for RuneLite
+openclaw/docs,JavaScript,76,Organization,2026-04-05,2026-10-20,270,OpenClaw docs + translation
+femiwiki/docker-mediawiki,PHP,33,Organization,2016-10-16,2026-10-20,586,:whale: Dockerized Femiwiki's mediawiki server
+simonw/scrape-roads-dot-ca-gov,HTML,12,User,2023-01-01,2026-10-19,0,Scrape highway information from https://roads.dot.ca.gov/
+mwakidenis/sautify,Dart,23,User,2026-02-01,2026-10-19,0,"Free music streaming app, free, opensource and no ads, no data collection. ALternative to spotify, youtube music etc."
+binwiederhier/ntfy,Go,34922,User,2021-10-23,2026-10-19,317,Send push notifications to your phone or desktop using PUT/POST
+nobl9/sloctl,Go,40,Organization,2021-02-02,2026-10-17,197,A command line tool to cast SLO spells 🪄
+esmBot/esmBot,TypeScript,505,Organization,2019-09-13,2026-10-17,37,A free and open-source Discord bot designed to entertain your server
+VectorInstitute/agent-bootcamp,Python,26,Organization,2025-05-22,2026-10-19,413,Reference Implementations for the Agentic AI bootcamp
+wvlet/airframe,Scala,665,Organization,2016-08-14,2026-10-18,194,Essential Building Blocks for Scala
+r4y7s/laliga-ip-list,JavaScript,21,User,2025-04-08,2026-10-20,1,LaLiga lista-blanca / LaLiga whitelist
+mishrasanjeev/agentic-org,Python,13,User,2026-03-20,2026-10-20,1722,"Agentic-Org is an open-source, enterprise-grade AI agent orchestration platform. It deploys a swarm of 24 specialist agents coordinated by the NEXUS orchestrator to automate Finance, HR, Marketing, Operations, and Back Office workflows end-to-end, connected to 42+ enterprise systems."
+rjwalters/kicad-tools,Python,70,User,2025-12-29,2026-10-20,3896,Standalone Python tools for parsing and manipulating KiCad schematic and PCB files
+BEPb/BEPb,Shell,3227,User,2021-10-28,2026-10-20,2,Config files for my GitHub profile.
+Dicklesworthstone/frankenterm,Rust,123,User,2026-01-18,2026-10-20,71,"Terminal hypervisor for AI agent swarms: real-time pane capture, state-machine pattern detection, and a JSON API for coordinating fleets of coding agents across WezTerm"
+kenanlian/obsidian-card-workspace,TypeScript,20,User,2026-04-14,2026-10-19,1,
+RustCrypto/SSH,Rust,247,Organization,2022-09-25,2026-10-19,183,Pure Rust implementation of components of the Secure Shell (SSH) protocol
+scottames/copr,Shell,13,User,2025-05-10,2026-10-19,585,my personal fedora copr
+dreamland-mud/dreamland_world,Python,16,Organization,2018-07-31,2026-10-18,1070,"DreamLand MUD: all configuration files, and some areas for local dev"
+PrismLauncher/refraction,Rust,17,Organization,2022-10-18,2026-10-19,182,Discord bot for Prism Launcher
+selimfirat/pysad,Python,297,User,2020-06-05,2026-10-20,208,"Streaming anomaly detection in Python: 16 online detectors (xStream, LODA, RS-Hash, Half-Space Trees, RRCF…) plus calibration and prequential evaluation for real-time data."
+xenodium/agent-shell,Emacs Lisp,1973,User,2025-09-09,2026-10-18,374,"Brings your favorite AI agents to Emacs, keeping you at home: familiar buffers and bindings, no terminal emulation. Powered by ACP."
+conda-forge/feedstocks,,72,Organization,2016-01-13,2026-10-20,0,"All conda-forge feedstocks, in one convenient place"
+windowsadmins/cimian,C#,25,Organization,2025-03-16,2026-10-20,204,"Cimian is a managed software deployment system for .msi, .msix, .exe, .nupkg, and pwsh scripts for Windows written in C#"
+carta/plugins,JavaScript,15,Organization,2026-03-26,2026-10-19,51,Centralized repository for public facing plugins
+osprey-oss/migrate-to-uv,Rust,1162,Organization,2024-12-26,2026-10-17,502,Migrate a project from Poetry/Pipenv/pip-tools/pip to uv package manager
+cedarjs/cedar,TypeScript,149,Organization,2025-04-09,2026-10-19,2365,The React + GraphQL Web App Framework
+kirill-markin/flashcards-open-source-app,TypeScript,99,User,2026-03-02,2026-10-19,2877,"AI-powered flashcards app built for serious daily study on iOS, MacOS, Android, and the web. Use it to prepare for exams, learn vocabulary, memorize technical terms and facts, improve your material with AI, and review with spaced repetition."
+mitre/saf,HTML,194,Organization,2021-11-29,2026-10-19,4799,"The MITRE Security Automation Framework (SAF) Command Line Interface (CLI) brings together applications, techniques, libraries, and tools developed by MITRE and the security community to streamline security automation for systems and DevOps pipelines"
+gd-docs/gd-docs,TypeScript,32,Organization,2026-01-23,2026-10-20,54,Documentation for Geometry Dash.
+jellyfin/jellyfin,C#,58268,Organization,2018-12-09,2026-10-19,1451,The Free Software Media System - Server Backend & API
+smogon/pokemon-showdown,TypeScript,5976,Organization,2011-12-23,2026-10-20,848,Pokémon battle simulator.
+dart-lang/test,Dart,536,Organization,2014-12-18,2026-10-17,173,A library for writing unit tests in Dart.
+xun404/adblock,,22,User,2021-03-28,2026-10-19,0,广告屏蔽列表 https://github.com/xun404/adblock
+ryoppippi/dotfiles,Nix,268,User,2022-01-24,2026-10-20,3021,ryoppippi's dotfiles
+1992513/www,HTML,13,Organization,2022-12-30,2026-10-20,0,
+bangyen/esolangs,Python,12,User,2020-07-07,2026-10-20,11,Interpreters and Boolean program generators for 81 esoteric languages.
+Santroller/Santroller,C++,351,Organization,2018-09-07,2026-10-19,8,Firmware for using various microcontrollers as controllers.
+redis/memtier_benchmark,Python,1054,Organization,2013-06-27,2026-10-19,284,NoSQL Redis and Memcache traffic generation and benchmarking tool.

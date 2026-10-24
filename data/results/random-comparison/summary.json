@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "panel": "data/panels/random-comparison",
+  "repositories": 204,
+  "policy_repositories": 102,
+  "weeks": 16057,
+  "primary_outcomes": [
+    "prs_opened",
+    "median_hours_to_first_review_by_opened",
+    "active_contributors",
+    "first_time_pr_authors"
+  ],
+  "main_design": "stacked",
+  "designs": [
+    "stacked",
+    "comparison_weighted",
+    "comparison"
+  ],
+  "stacked_window_weeks": [
+    -26,
+    11
+  ],
+  "stacked_cohorts": 12,
+  "stacked_treated_repositories": 71,
+  "comparison_effective_size": 11.626372117164237,
+  "comparison_max_std_diff_after": 5.209346153129283e-06,
+  "bootstrap_reps": 9999,
+  "policy_types_estimated": true,
+  "model_errors": 0,
+  "output_directory": "data/results/random-comparison"
+}

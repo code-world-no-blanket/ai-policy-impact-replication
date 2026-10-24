@@ -1,0 +1,13 @@
+outcome,pre_bins,wald,p,design
+prs_opened,6,8.689397630375048,0.1918143073186741,stacked
+median_hours_to_first_review_by_opened,6,3.016094633441963,0.8068240891998625,stacked
+active_contributors,6,10.917789266400447,0.09095072906862593,stacked
+first_time_pr_authors,6,5.318979067795811,0.5035996398527818,stacked
+prs_opened,12,15.131717674218544,0.2343121118804503,comparison_weighted
+median_hours_to_first_review_by_opened,12,14.803297800779562,0.25237024420917786,comparison_weighted
+active_contributors,12,32.80814995080842,0.001037025501170957,comparison_weighted
+first_time_pr_authors,12,29.250285084959014,0.0036163329253581164,comparison_weighted
+prs_opened,12,16.210586680034965,0.18178008914156046,comparison
+median_hours_to_first_review_by_opened,12,14.780827698362561,0.2536417898436098,comparison
+active_contributors,12,28.898022526063933,0.004079669623176984,comparison
+first_time_pr_authors,12,24.04118623256188,0.020080230184642174,comparison

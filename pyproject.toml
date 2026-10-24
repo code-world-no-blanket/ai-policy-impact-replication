@@ -1,0 +1,32 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "ai-policy-impact"
+version = "0.1.0"
+description = "Research pipeline for studying how AI contribution policies affect open-source software projects."
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "pydantic>=2.11,<3",
+    "PyYAML>=6.0.2,<7",
+    "typer>=0.16,<1",
+]
+
+[project.scripts]
+aip = "ai_policy_impact.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/ai_policy_impact"]
+
+[dependency-groups]
+analysis = [
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.4",
+    "pandas>=3.0.6",
+    "pyfixest>=0.60.0",
+    "scipy>=1.18.1",
+    "statsmodels>=0.15.0",
+    "wildboottest>=0.3.2",
+]

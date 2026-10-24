@@ -1,0 +1,696 @@
+repository,policy_file,language,stars,owner_type,created_at,pushed_at,prs_past_year,description
+Project-HAMi/HAMi,CONTRIBUTING.md,Go,4869,Organization,2021-09-14,2026-10-19,1246,Heterogeneous GPU Sharing on Kubernetes
+JabRef/jabref,CODE_OF_CONDUCT.md|CONTRIBUTING.md|AI_USAGE_POLICY.md,Java,4820,Organization,2014-03-11,2026-10-20,2912,Desktop app for managing BibTeX and BibLaTeX (.bib) libraries
+ghostty-org/ghostty,CONTRIBUTING.md|AI_POLICY.md,Zig,62401,Organization,2022-03-29,2026-10-20,2491,"👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration."
+ggml-org/llama.cpp,CONTRIBUTING.md|AGENTS.md,C++,131735,Organization,2023-03-10,2026-10-20,8304,LLM inference in C/C++
+pola-rs/polars,AI_POLICY.md,Rust,40126,Organization,2020-05-13,2026-10-19,3304,"Extremely fast Query Engine for DataFrames, written in Rust"
+wamp-proto/wamp-ai,AI_POLICY.md|AI_GUIDELINES.md,Python,1,Organization,2025-09-23,2026-10-18,8,Multi-repository workspace setup for AI assistants/agents specific configuration
+qdrant/qdrant,docs/CONTRIBUTING.md,Rust,35142,Organization,2020-05-30,2026-10-19,3188,"Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/"
+pytorch/pytorch,AI_POLICY.md,Python,104938,Organization,2016-08-13,2026-10-20,27969,Tensors and Dynamic neural networks in Python with strong GPU acceleration
+rust-lang/rust-analyzer,AI_POLICY.md,Rust,16912,Organization,2017-12-21,2026-10-20,1773,A Rust compiler front-end for IDEs
+gradle/gradle,AI_POLICY.md,Groovy,18897,Organization,2009-09-09,2026-10-19,3059,"Adaptable, fast automation for all"
+FreeCAD/FreeCAD,AI_POLICY.md,C++,34539,Organization,2012-09-09,2026-10-19,4871,"Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler."
+duckdb/duckdb,AI_POLICY.md,C++,42278,Organization,2018-06-26,2026-10-20,5892,DuckDB is an analytical in-process SQL database management system
+BurntSushi/ripgrep,AI_POLICY.md,Rust,69256,User,2016-03-11,2026-08-04,223,ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+RIOT-OS/RIOT,doc/guides/general/ai_policy.md,C,5820,Organization,2012-12-29,2026-10-20,1035,RIOT - The friendly OS for IoT
+bitcoin/bitcoin,doc/AI_POLICY.md,C++,90442,Organization,2010-12-19,2026-10-19,2347,Bitcoin Core integration/staging tree
+directus/directus,ai_policy.md,TypeScript,38610,Organization,2012-12-12,2026-10-19,1640,"The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more."
+ankidroid/Anki-Android,AI_POLICY.md,Kotlin,12053,Organization,2013-01-20,2026-10-19,2294,AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
+nasa/fprime,AI_POLICY.md,C++,11846,Organization,2017-06-22,2026-10-19,1004,F´ - A flight software and embedded systems framework
+Wilfred/difftastic,AI_POLICY.md,Rust,26035,User,2018-12-18,2026-10-16,112,a structural diff that understands syntax 🟥🟩
+Textualize/rich,AI_POLICY.md,Python,57578,Organization,2019-11-10,2026-06-23,208,Rich is a Python library for rich text and beautiful formatting in the terminal.
+openssl/openssl,CONTRIBUTING.md,C,30990,Organization,2013-01-15,2026-10-19,3184,General purpose TLS and crypto library
+N64Recomp/N64Recomp,CONTRIBUTING.md,C++,8273,Organization,2022-11-16,2026-05-27,15,Tool to statically recompile N64 games into native executables
+samtools/samtools,CONTRIBUTING.md,C,1969,Organization,2012-03-09,2026-10-15,76,Tools (written in C using htslib) for manipulating next-generation sequencing data
+modelcontextprotocol/modelcontextprotocol,CONTRIBUTING.md|AI_POLICY.md,TypeScript,9482,Organization,2024-09-24,2026-10-20,939,Specification and documentation for the Model Context Protocol
+dart-lang/sdk,CONTRIBUTING.md,Dart,11312,Organization,2015-05-16,2026-10-20,272,"The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more."
+pomerium/pomerium,AI_POLICY.md,Go,5056,Organization,2019-01-01,2026-10-20,913,Pomerium is an identity and context-aware access proxy.
+AcademySoftwareFoundation/OpenShadingLanguage,docs/dev/AI_Policy.md,C++,2344,Organization,2011-03-10,2026-10-17,134,Advanced shading language for production GI renderers
+alacritty/alacritty,CONTRIBUTING.md,Rust,66003,Organization,2016-02-18,2026-10-16,135,"A cross-platform, OpenGL terminal emulator."
+alexch33/super-video-downloader,rust_adblock/vendor/memchr/AI_POLICY.md,Kotlin,966,User,2024-08-16,2026-09-17,170,"Video & Audio downloader for Android with web browser and player. M3U8 and MPD supported, live stream supported, using youtube-dlp and custom mp4/mp3/m3u8/mpd downloader, cookies supported, HTTP & SOCKS proxy chains supported, encrypted DNS, Adblocker with lists managenment"
+allenhutchison/obsidian-gemini,AI_POLICY.md,TypeScript,530,User,2024-10-23,2026-10-19,1059,An obsidian plugin to interact with Google Gemini
+apache/couchdb,CONTRIBUTING.md,Erlang,6981,Organization,2009-05-21,2026-10-19,384,"Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability"
+babel/babel,AI_POLICY.md,TypeScript,44062,Organization,2014-09-28,2026-10-19,618,🐠 Babel is a compiler for writing next generation JavaScript.
+beyond-all-reason/Beyond-All-Reason,AI_POLICY.md,Lua,4311,Organization,2019-02-24,2026-10-20,3378,Main game repository for Beyond All Reason.
+carbon-language/carbon-lang,CONTRIBUTING.md,C++,33927,Organization,2020-04-27,2026-10-19,1528,"Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)"
+chromiumembedded/cef,AI_POLICY.md,C++,4837,Organization,2017-04-02,2026-10-16,143,Chromium Embedded Framework (CEF). A simple framework for embedding Chromium-based browsers in other applications.
+cloudnativelabs/kube-router,AI_POLICY.md,Go,2511,Organization,2017-04-17,2026-10-17,247,"Kube-router, a turnkey solution for Kubernetes networking."
+conda/rattler,AI_POLICY.md,Rust,463,Organization,2021-11-28,2026-10-16,1009,Rust crates to work with the Conda ecosystem.
+containers/ramalama,CONTRIBUTING.md,Python,3086,Organization,2024-07-24,2026-10-19,746,"RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of containers."
+cozystack/cozystack,docs/agents/contributing.md,Go,2362,Organization,2023-11-21,2026-10-19,2328,Cozystack: Free Cloud Platform based on Kubernetes
+crossbario/crossbar,AI_POLICY.md,Python,2062,Organization,2013-10-14,2026-10-20,90,Crossbar.io - WAMP application router
+crossplane/crossplane,AI_POLICY.md,Go,12180,Organization,2018-09-08,2026-10-19,837,The Cloud Native Control Plane
+cuthbertLab/music21,CONTRIBUTING.md,Python,2605,Organization,2013-11-04,2026-10-19,216,music21: a Toolkit for Computer-Aided Musical Analysis and Computational Musicology
+databuddy-analytics/Databuddy,AI_POLICY.md,TypeScript,1208,Organization,2025-03-11,2026-10-19,906,"Open-source product analytics for startups: track visitors, events, funnels, and goals without cookies, and ask Databunny, the built-in AI analyst. Uptime, feature flags, and short links in the same dashboard."
+DavidAnson/markdownlint,CONTRIBUTING.md,JavaScript,6391,User,2015-03-15,2026-10-19,398,A Node.js style checker and lint tool for Markdown/CommonMark files.
+dubzzz/fast-check,AI_POLICY.md,TypeScript,5208,User,2017-10-30,2026-10-19,1176,Property based testing framework for JavaScript (like QuickCheck) written in TypeScript
+deepset-ai/haystack,CONTRIBUTING.md,Python,26782,Organization,2019-11-14,2026-10-19,2794,"Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems."
+DetachHead/basedpyright,devleopment/contributing.md,TypeScript,3633,User,2023-12-02,2026-10-04,149,"pyright fork with various type checking improvements, improved vscode support and pylance features built into the language server"
+dimensionalOS/dimos,AI_POLICY.md,Python,4667,Organization,2024-10-19,2026-10-20,2506,"Dimensional is the agentic operating system for physical space. Command humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamlessly with physical input (cameras, lidar, actuators)."
+DLR-RM/stable-baselines3,CONTRIBUTING.md,Python,13910,Organization,2020-05-05,2026-10-13,69,"PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms."
+docker/compose,AI_POLICY.md,Go,38407,Organization,2013-12-09,2026-10-19,772,Define and run multi-container applications with Docker
+eclipse-collections/eclipse-collections,AI_POLICY.md,Java,2659,Organization,2015-11-24,2026-10-19,177,"Eclipse Collections is a collections framework for Java with optimized data structures and a rich, functional and fluent API."
+endless-sky/endless-sky,CONTRIBUTING.md,C++,7642,Organization,2015-03-14,2026-10-18,629,"Space exploration, trading, and combat game."
+EnterpriseDB/barman,AI_POLICY.md,Python,3262,Organization,2015-08-17,2026-10-01,47,Barman - Backup and Recovery Manager for PostgreSQL
+fooyin/fooyin,CONTRIBUTING.md,C++,2576,Organization,2022-06-20,2026-10-19,276,A customisable music player
+fossar/selfoss,CONTRIBUTING.md,HTML,2472,Organization,2011-10-02,2026-10-19,103,"multipurpose rss reader, live stream, mashup, aggregation web application"
+getarcaneapp/arcane,AI_POLICY.md,Go,7972,Organization,2025-04-19,2026-10-19,2388,"Modern Docker Management, Designed for Everyone"
+getzola/zola,CONTRIBUTING.md,Rust,17523,Organization,2016-12-06,2026-10-19,164,A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+grpc/grpc-rust,CONTRIBUTING.md,Rust,12494,Organization,2019-08-09,2026-10-19,404,A native gRPC client & server implementation with async/await support.
+h2oai/h2o-llmstudio,CONTRIBUTING.md,Python,5183,Organization,2023-04-17,2026-10-17,99,H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
+hanakai-rb/site,content/pages/ai_policy.md,HTML,17,Organization,2024-11-18,2026-10-17,209,"The hanakai.org website, a Hanami app distributed as a static site"
+home-assistant/home-assistant.io,AI_POLICY.md,HTML,9972,Organization,2014-12-21,2026-10-20,6614,:blue_book: Home Assistant User documentation
+http4s/http4s,CONTRIBUTING.md,Scala,2627,Organization,2012-03-12,2026-10-19,213,"A minimal, idiomatic Scala interface for HTTP"
+idris-lang/Idris2,CONTRIBUTING.md,Idris,3096,Organization,2020-05-17,2026-10-14,128,A purely functional programming language with first class types
+influxdata/telegraf,CONTRIBUTING.md,Go,17871,Organization,2015-04-01,2026-10-19,1712,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data."
+iv-org/invidious,AI_POLICY.md,Crystal,25544,Organization,2018-02-07,2026-10-19,337,Invidious is an alternative front-end to YouTube
+immich-app/immich,CONTRIBUTING.md,TypeScript,116681,Organization,2022-02-03,2026-10-19,4139,High performance self-hosted photo and video management solution.
+jank-lang/jank,CONTRIBUTING.md,C++,3344,Organization,2014-07-02,2026-10-19,373,jank is the native Clojure dialect with seamless C++ interop.
+jump-dev/JuMP.jl,docs/src/developers/ai_policy.md,Julia,2484,Organization,2012-10-10,2026-10-19,161,"Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)"
+keepassxreboot/keepassxc-browser,.github/CONTRIBUTING.md,JavaScript,2361,Organization,2017-12-27,2026-10-14,120,KeePassXC Browser Extension
+kornia/kornia-rs,AI_POLICY.md,Rust,739,Organization,2022-03-05,2026-10-19,508,🦀 Low-level 3D Computer Vision library in Rust
+krille-chan/fluffychat,CONTRIBUTING.md,Dart,3212,User,2023-07-13,2026-10-19,941,The cutest instant messenger in the [matrix]
+labwc/labwc,CONTRIBUTING.md,C,2858,Organization,2019-05-11,2026-10-15,326,A Wayland window-stacking compositor
+letta-ai/letta,AI_POLICY.md,,25195,Organization,2023-10-11,2026-10-18,89,Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
+LibreChat-AI/LibreChat,CONTRIBUTING.md,TypeScript,46015,Organization,2023-02-12,2026-10-20,4333,"Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active"
+libvips/libvips,CONTRIBUTING.md,C,11747,Organization,2011-01-25,2026-10-19,408,A fast image processing library with low memory needs.
+localsend/localsend,CONTRIBUTING.md,Dart,94960,Organization,2022-12-16,2026-10-17,332,An open-source cross-platform alternative to AirDrop
+luanti-org/luanti,doc/developing/ai_policy.md,C++,13743,Organization,2011-08-07,2026-10-19,606,Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
+lysine-dev/retrofit,CONTRIBUTING.md,Java,43933,Organization,2010-09-06,2026-10-20,211,A type-safe HTTP client for Android and the JVM
+MonoGame/MonoGame,CONTRIBUTING.md,C#,14546,Organization,2011-04-07,2026-10-11,284,One framework for creating powerful cross-platform games.
+mrcjkb/rustaceanvim,CONTRIBUTING.md,Lua,3151,User,2021-05-11,2026-10-20,266,🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim
+MDAnalysis/mdanalysis,AI_POLICY.md,Python,1665,Organization,2015-04-04,2026-10-19,197,MDAnalysis is a Python library to analyze molecular dynamics simulations.
+neuroinformatics-unit/neuroinformatics-unit.github.io,CONTRIBUTING.md,,15,Organization,2022-11-10,2026-10-19,102,Home website of the Neuroinformatics Unit
+neovim/neovim,docs/source/get-involved/ai_policy.md,Vim Script,103069,Organization,2014-01-31,2026-10-19,4336,Vim-fork focused on extensibility and usability
+nibzard/awesome-agentic-patterns,AI_POLICY.md,HTML,5038,User,2025-05-31,2026-10-14,135,A curated catalogue of awesome agentic AI patterns
+obsproject/obs-studio,CONTRIBUTING.md,C,77788,Organization,2013-10-01,2026-10-16,676,OBS Studio - Free and open source software for live streaming and screen recording
+ohmyzsh/ohmyzsh,CONTRIBUTING.md,Shell,190077,Organization,2009-08-28,2026-10-20,655,"🙃 A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community."
+openstreetmap/openstreetmap-website,CONTRIBUTING.md,Ruby,2853,Organization,2010-05-01,2026-10-19,771,The Rails application that powers OpenStreetMap
+Orama-Interactive/Pixelorama,CONTRIBUTING.md,GDScript,10588,Organization,2019-08-18,2026-10-19,144,"Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web!"
+perl-actions/install-with-cpanm,AI_POLICY.md,JavaScript,16,Organization,2020-04-10,2026-09-13,30,GitHub action to install Perl Modules using App::cpanm
+penpot/penpot,CONTRIBUTING.md,Clojure,61388,Organization,2015-12-29,2026-10-19,3109,Penpot: The open-source design platform for Product teams that need scalable collaboration.
+PostgREST/postgrest,CONTRIBUTING.md,Haskell,27724,Organization,2014-06-13,2026-10-19,756,REST API for any Postgres database
+PostHog/posthog-foss,AI_POLICY.md,Python,724,Organization,2020-08-11,2026-10-20,0,"PostHog FOSS is a read-only mirror of PostHog, with all proprietary code removed. NOTE: This repo is synced automatically from the main PostHog repo. Please raise any issues and PRs there."
+prisma/orm,CONTRIBUTING.md,TypeScript,47697,Organization,2019-06-20,2026-10-19,1448,"Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB"
+pykeio/ort,CONTRIBUTING.md,Rust,2574,Organization,2022-11-26,2026-10-19,87,Fast ML inference & training for ONNX models in Rust
+pypa/pip,AI_POLICY.md,Python,10294,Organization,2011-03-06,2026-10-18,530,The Python package installer
+Python-Markdown/markdown,AI_POLICY.md,Python,4253,Organization,2010-05-29,2026-10-19,64,A Python implementation of John Gruber’s Markdown with Extension support.
+Qiskit/qiskit,CONTRIBUTING.md,Python,7906,Organization,2017-03-03,2026-10-19,1554,"Qiskit is an open-source SDK for working with quantum computers at the level of extended quantum circuits, operators, and primitives."
+quipucords/quipucords,contributing.md,Python,60,Organization,2017-06-15,2026-10-19,263,"A tool for discovery, inspection, collection/deduplication, and reporting on an IT environment"
+Rapptz/discord.py,.github/CONTRIBUTING.md,Python,16198,User,2015-08-21,2026-09-07,127,An API wrapper for Discord written in Python.
+ripienaar/free-for-dev,contributing.md,HTML,139818,User,2015-03-18,2026-10-18,1074,"A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
+royshil/obs-backgroundremoval,contributing.md,C++,4624,User,2021-04-15,2026-10-20,217,"An OBS plugin for removing background in portrait images (video), making it easy to replace the background when recording or streaming."
+rust-lang/rust,AI_POLICY.md,Rust,120625,Organization,2010-06-16,2026-10-20,12142,Empowering everyone to build reliable and efficient software.
+sass/dart-sass,contributing.md,Dart,4234,Organization,2016-10-31,2026-10-19,179,"The reference implementation of Sass, written in Dart."
+shader-slang/slang,contributing.md,C++,5746,Organization,2017-06-09,2026-10-20,2886,Making it easier to work with shaders
+sindresorhus/type-fest,.github/contributing.md,TypeScript,17460,User,2019-03-13,2026-10-19,166,A collection of essential TypeScript types
+sosreport/sos,AI_POLICY.md,Python,600,Organization,2011-07-11,2026-10-19,326,A unified tool for collecting system logs and other debug information
+spockframework/spock,AI_POLICY.md,Java,3630,Organization,2010-12-12,2026-10-17,186,The Enterprise-ready testing and specification framework.
+spree/spree,contributing.md,Ruby,15763,Organization,2008-03-10,2026-10-19,1589,"Open Source Platform for DTC, B2B Commerce, Marketplaces & Omnichannel. REST APIs, TypeScript SDKs, and production-ready Next.js storefront. Self-host it. Own your data. No vendor lock-in. Zero platform fees."
+starship/starship,AI_POLICY.md,Rust,60341,Organization,2019-04-02,2026-10-19,499,"☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!"
+stashapp/stash,docs/ai_policy.md,Go,13147,Organization,2018-06-04,2026-10-17,665,"An organizer for your porn, written in Go. Documentation: https://docs.stashapp.cc"
+storybookjs/storybook,contributing.md,TypeScript,91343,Organization,2016-03-18,2026-10-19,3012,"Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation"
+sqldelight/sqldelight,contributing.md,Kotlin,6897,Organization,2015-10-21,2026-10-06,307,SQLDelight - Generates typesafe Kotlin APIs from SQL
+superglue-ai/superglue,contributing.md,TypeScript,2065,Organization,2025-01-10,2026-08-19,361,superglue (YC W25) builds integrations and tools from natural language. Get production-grade tools for long tail and enterprise systems.
+syncthing/syncthing,contributing.md,Go,89538,Organization,2013-11-26,2026-10-19,230,Open Source Continuous File Synchronization
+Textualize/textual,AI_POLICY.md,Python,37480,Organization,2021-04-08,2026-10-09,263,The lean application framework for Python. Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
+time-rs/time,AI_POLICY.md,Rust,1343,Organization,2014-11-10,2026-10-16,18,Date and time handling in Rust.
+twpayne/chezmoi,contributing.md,Go,21989,User,2018-11-12,2026-10-19,273,"Manage your dotfiles across multiple diverse machines, securely."
+tinyauthapp/tinyauth,AI_POLICY.md,Go,8397,Organization,2025-01-19,2026-10-20,590,The tiniest OpenID Certified™ authorization and authentication server you have ever seen.
+UnderminersTeam/UndertaleModTool,contributing.md,C#,2086,Organization,2018-09-13,2026-09-07,132,"The most complete tool for modding, decompiling and unpacking Undertale (and other GameMaker games!)"
+uutils/coreutils,contributing.md,Rust,24269,Organization,2013-08-02,2026-10-19,4682,Cross-platform Rust rewrite of the GNU coreutils
+u-root/u-root,AI_POLICY.md,Go,3081,Organization,2015-11-19,2026-10-19,312,A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
+vectordotdev/vector,AI_POLICY.md,Rust,22728,Organization,2018-08-27,2026-10-19,2169,A high-performance observability data pipeline.
+veeso/suppaftp,AI_POLICY.md,Rust,193,User,2021-08-21,2026-10-15,57,a super FTP/FTPS client library for Rust with full RFC support for both passive and active mode
+Vineflower/vineflower,contributing.md,Java,2419,Organization,2021-03-10,2026-08-18,68,"Modern Java decompiler aiming to be as accurate as possible, with an emphasis on output quality. Fork of the Fernflower decompiler."
+wamp-proto/wamp-proto,AI_POLICY.md,Python,490,Organization,2012-03-23,2026-10-10,9,The Web Application Messaging Protocol
+yt-dlp/yt-dlp,CONTRIBUTING.md,Python,199506,Organization,2020-10-26,2026-10-10,912,A feature-rich command-line audio/video downloader
+zeromq/pyzmq,CONTRIBUTING.md,Python,4183,Organization,2010-07-21,2026-10-16,71,PyZMQ: Python bindings for zeromq
+zotero-rag/zotero-rag,AI_POLICY.md,Rust,22,Organization,2024-10-26,2026-10-18,155,A RAG-based Q&A and search system for Zotero
+microsoft/vscode,extensions/copilot/CONTRIBUTING.md,TypeScript,194008,Organization,2015-09-03,2026-10-20,24986,Visual Studio Code
+huggingface/transformers,docs/source/ro/contributing.md,Python,167868,Organization,2018-10-29,2026-10-20,6233,"🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training."
+clash-verge-rev/clash-verge-rev,CONTRIBUTING.md,Rust,152530,Organization,2023-11-21,2026-10-19,941,"A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience"
+krahets/hello-algo,en/CONTRIBUTING.md,Java,130866,User,2022-11-04,2026-10-10,75,"《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现"
+electron/electron,CONTRIBUTING.md,C++,123414,Organization,2013-04-12,2026-10-20,5623,":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS"
+microsoft/generative-ai-for-beginners,translations/en/CONTRIBUTING.md,Jupyter Notebook,121652,Organization,2023-06-19,2026-10-19,300,"21 Lessons, Get Started Building with Generative AI"
+microsoft/TypeScript,CONTRIBUTING.md,Go,111544,Organization,2014-06-17,2026-10-19,1111,TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+denoland/deno,.github/CONTRIBUTING.md,Rust,108727,Organization,2018-05-15,2026-10-07,4137,A modern runtime for JavaScript and TypeScript.
+vllm-project/vllm,.github/CONTRIBUTING.md,Python,94158,Organization,2023-02-09,2026-10-20,27511,A high-throughput and memory-efficient inference and serving engine for LLMs
+zed-industries/zed,CONTRIBUTING.md,Rust,91937,Organization,2021-02-20,2026-10-20,13208,"Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter."
+D4Vinci/Scrapling,AI_POLICY.md,Python,88689,User,2024-10-13,2026-10-19,238,"🕷️ A Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev"
+jesseduffield/lazygit,CONTRIBUTING.md,Go,83306,User,2018-05-19,2026-10-17,655,simple terminal UI for git commands
+elastic/elasticsearch,CONTRIBUTING.md,Java,78319,Organization,2010-02-08,2026-10-20,18845,"Free and Open Source, Distributed, RESTful Search Engine"
+caddyserver/caddy,.github/CONTRIBUTING.md,Go,78163,Organization,2015-01-13,2026-10-19,591,Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+grafana/grafana,AI_POLICY.md,TypeScript,77389,Organization,2013-12-11,2026-10-20,18253,"The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more."
+moby/moby,CONTRIBUTING.md,Go,72206,Organization,2013-01-18,2026-10-19,2148,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+mem0ai/mem0,CONTRIBUTING.md,Python,67471,Organization,2023-06-20,2026-10-19,2765,The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
+Mintplex-Labs/anything-llm,CONTRIBUTING.md,JavaScript,67328,Organization,2023-06-04,2026-10-20,983,Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
+facebook/docusaurus,CONTRIBUTING.md,TypeScript,66532,Organization,2017-06-20,2026-10-16,972,Easy to maintain open source documentation websites.
+warpdotdev/warp,CONTRIBUTING.md,Rust,65556,Organization,2021-07-08,2026-10-20,5270,"Warp is an agentic development environment, born out of the terminal."
+keras-team/keras,CONTRIBUTING.md,Python,64373,Organization,2015-03-28,2026-10-19,1700,Deep Learning for humans
+tldr-pages/tldr,CONTRIBUTING.md,Markdown,63995,Organization,2013-12-08,2026-10-19,5626,Collaborative cheatsheets for console commands 📚.
+pocketbase/pocketbase,CONTRIBUTING.md,Go,61500,Organization,2022-07-05,2026-10-14,48,Open Source realtime backend in 1 file
+BerriAI/litellm,CONTRIBUTING.md,Python,61590,Organization,2023-07-27,2026-10-20,24805,"The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]"
+rclone/rclone,CONTRIBUTING.md,Go,60416,Organization,2014-03-16,2026-10-19,780,"""rsync for cloud storage"" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files"
+spring-projects/spring-framework,CONTRIBUTING.md,Java,60294,Organization,2010-12-08,2026-10-19,648,Spring Framework
+meilisearch/meilisearch,CONTRIBUTING.md,Rust,59612,Organization,2018-04-23,2026-10-19,572,A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
+firstcontributions/first-contributions,.github/CONTRIBUTING.md,,56426,Organization,2016-09-20,2026-10-20,20689,🚀✨ Help beginners to contribute to open source projects
+freqtrade/freqtrade,CONTRIBUTING.md,Python,55646,Organization,2017-05-17,2026-10-19,982,"Free, open source crypto trading bot"
+aaif-goose/goose,CONTRIBUTING.md,Rust,55446,Organization,2024-08-23,2026-10-20,5138,"an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM"
+psf/requests,.github/AI_POLICY.md,Python,54521,Organization,2011-02-13,2026-09-28,432,"A simple, yet elegant, HTTP library."
+anthropics/claude-cookbooks,CONTRIBUTING.md,Jupyter Notebook,53588,Organization,2023-08-15,2026-10-17,506,A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+run-llama/llama_index,CONTRIBUTING.md,Python,52570,Organization,2022-11-02,2026-10-19,2594,LlamaIndex is the document processing platform for AI
+cypress-io/cypress,CONTRIBUTING.md,TypeScript,51045,Organization,2015-03-04,2026-10-20,1755,"Fast, easy and reliable testing for anything that runs in a browser."
+TanStack/query,AI_POLICY.md,TypeScript,50463,Organization,2019-09-10,2026-10-20,1994,"🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query."
+astral-sh/ruff,CONTRIBUTING.md,Rust,50170,Organization,2022-08-09,2026-10-20,7183,"An extremely fast Python linter and code formatter, written in Rust."
+Homebrew/brew,CONTRIBUTING.md,Ruby,50057,Organization,2016-03-06,2026-10-19,2829,🍺 The Package Manager for Everywhere
+hashicorp/terraform,.github/CONTRIBUTING.md,Go,49987,Organization,2014-03-13,2026-10-19,1252,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
+mudler/LocalAI,CONTRIBUTING.md,Go,49732,User,2023-03-18,2026-10-20,2527,"LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required."
+JuliaLang/julia,CONTRIBUTING.md,Julia,49222,Organization,2011-04-21,2026-10-20,3142,The Julia Programming Language
+ReactiveX/RxJava,CONTRIBUTING.md,Java,48177,Organization,2013-01-08,2026-10-19,299,RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
+lysine-dev/okhttp,CONTRIBUTING.md,Kotlin,47091,Organization,2012-07-23,2026-10-17,505,"A meticulous HTTP client for the JVM, Android, and GraalVM."
+paperless-ngx/paperless-ngx,CONTRIBUTING.md,Python,46890,Organization,2022-02-12,2026-10-19,1563,"A community-supported supercharged document management system: scan, index and archive all your documents"
+streamlit/streamlit,CONTRIBUTING.md,Python,46051,Organization,2019-08-24,2026-10-19,4095,Streamlit — A faster way to build and share data apps.
+grpc/grpc,CONTRIBUTING.md,C++,45391,Organization,2014-12-08,2026-10-19,2520,"C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)"
+payloadcms/payload,CONTRIBUTING.md,TypeScript,45358,Organization,2021-01-05,2026-10-19,3095,"Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications."
+janhq/jan,CONTRIBUTING.md,Rust,45016,Organization,2023-08-17,2026-10-19,1400,Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
+sharkdp/fd,CONTRIBUTING.md,Rust,44799,User,2017-05-09,2026-10-18,271,"A simple, fast and user-friendly alternative to 'find'"
+gradio-app/gradio,CONTRIBUTING.md,Python,43814,Organization,2018-12-19,2026-10-19,1138,"Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!"
+HeyPuter/puter,CONTRIBUTING.md,TypeScript,43816,Organization,2024-03-03,2026-10-19,1938,"🌐 The Internet Computer! Free, Open-Source, and Self-Hostable."
+vim/vim,CONTRIBUTING.md,Vim Script,41155,Organization,2015-08-18,2026-10-19,2177,The official Vim repository
+vuetifyjs/vuetify,packages/docs/src/pages/en/getting-started/contributing.md,TypeScript,41033,Organization,2016-09-12,2026-10-19,581,🐉 Vue Component Framework
+php/php-src,CONTRIBUTING.md,C,40447,Organization,2011-06-16,2026-10-20,3208,The PHP Interpreter
+lfnovo/open-notebook,docs/7-DEVELOPMENT/contributing.md,TypeScript,40394,User,2024-10-21,2026-10-18,703,An Open Source implementation of Notebook LM with more flexibility and features
+TeamNewPipe/NewPipe,.github/CONTRIBUTING.md,Java,40203,Organization,2015-09-03,2026-10-19,345,A libre lightweight streaming front-end for Android.
+videojs/video.js,CONTRIBUTING.md,TypeScript,39994,Organization,2010-05-14,2026-10-20,183,Video.js v10 - open source media player framework for HTML and React.
+ueberdosis/tiptap,CONTRIBUTING.md,TypeScript,38778,Organization,2018-08-20,2026-10-19,867,The headless rich text editor framework for web artisans.
+stanfordnlp/dspy,CONTRIBUTING.md,Python,38701,Organization,2023-01-09,2026-10-19,1313,DSPy: The framework for programming—not prompting—language models
+CopilotKit/CopilotKit,community/content/CONTRIBUTING.md,TypeScript,38122,Organization,2023-06-19,2026-10-20,4423,"The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol"
+keycloak/keycloak,CONTRIBUTING.md,Java,37435,Organization,2013-07-02,2026-10-20,5108,Open Source Identity and Access Management For Modern Applications and Services
+Predidit/Kazumi,static/doc/CONTRIBUTING.md,Dart,38289,User,2024-05-09,2026-10-18,285,基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
+sgl-project/sglang,docs/docs/sglang-diffusion/contributing.mdx,Python,37447,Organization,2024-01-08,2026-10-20,28637,SGLang is a high-performance serving framework for large language models and multimodal models.
+pnpm/pnpm,CONTRIBUTING.md,Rust,36854,Organization,2016-01-28,2026-10-20,4416,"Fast, disk space efficient package manager"
+blakeblackshear/frigate,AI_POLICY.md,Python,36755,User,2019-01-26,2026-10-19,1469,NVR with realtime local object detection for IP cameras
+jax-ml/jax,docs/contributing.md,Python,36468,Organization,2018-10-25,2026-10-20,8041,"Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more"
+DayuanJiang/next-ai-draw-io,.github/CONTRIBUTING.md,TypeScript,36324,User,2025-03-23,2026-10-19,620,"Draw and edit draw.io diagrams by chatting with an AI. Web app, desktop app, and an MCP server for Claude Code, Cursor, Codex and VS Code."
+langfuse/langfuse,CONTRIBUTING.md,TypeScript,36041,Organization,2023-05-18,2026-10-19,6681,"🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform."
+utmapp/UTM,CONTRIBUTING.md,Swift,36005,Organization,2019-04-12,2026-10-18,110,Virtual machines for iOS and macOS
+zellij-org/zellij,CONTRIBUTING.md,Rust,35771,Organization,2020-09-01,2026-10-19,599,A terminal workspace with batteries included
+jdx/mise,docs/contributing.md,Rust,35180,User,2023-01-09,2026-10-20,5880,"dev tools, env vars, task runner"
+aristocratos/btop,CONTRIBUTING.md,C++,35040,User,2021-05-06,2026-10-16,349,A monitor of resources
+backstage/backstage,CONTRIBUTING.md,TypeScript,34660,Organization,2020-01-24,2026-10-19,3946,Backstage is an open framework for building developer portals
+SeleniumHQ/selenium,CONTRIBUTING.md,Java,34560,Organization,2013-01-14,2026-10-20,1453,A browser automation framework and ecosystem.
+k3s-io/k3s,CONTRIBUTING.md,Go,34222,Organization,2018-05-31,2026-10-19,994,Lightweight Kubernetes
+apache/kafka,CONTRIBUTING.md,Java,34127,Organization,2011-08-15,2026-10-19,3143,Apache Kafka - A distributed event streaming platform
+cjpais/Handy,CONTRIBUTING.md,Rust,34157,User,2025-02-13,2026-10-19,820,"A free, open source, and extensible speech-to-text application that works completely offline."
+OWASP/CheatSheetSeries,CONTRIBUTING.md,JavaScript,33677,Organization,2018-12-21,2026-10-19,746,The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
+agentscope-ai/agentscope,CONTRIBUTING.md,Python,33512,Organization,2024-01-12,2026-10-19,1328,"Build and run agents you can see, understand and trust."
+Fincept-Corporation/FinceptTerminal,docs/CONTRIBUTING.md,C++,32768,Organization,2024-08-29,2026-10-13,159,"FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment."
+onyx-dot-app/onyx,CONTRIBUTING.md,Python,32593,Organization,2023-04-27,2026-10-20,9750,Open Source AI Platform - AI Chat with advanced features that works with every LLM
+conductor-oss/conductor,ai/CONTRIBUTING.md,Java,32339,Organization,2023-12-08,2026-10-19,803,Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents
+jj-vcs/jj,AI_POLICY.md,Rust,32158,Organization,2020-12-18,2026-10-20,1743,A Git-compatible VCS that is both simple and powerful
+getzep/graphiti,CONTRIBUTING.md,Python,32048,Organization,2024-08-08,2026-10-19,696,Build Real-Time Knowledge Graphs for AI Agents
+AvaloniaUI/Avalonia,CONTRIBUTING.md,C#,31684,Organization,2013-12-05,2026-10-20,1099,"Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI"
+ComposioHQ/composio,docs/CONTRIBUTING.md,TypeScript,30644,Organization,2024-02-23,2026-10-20,2357,"Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action."
+nautechsystems/nautilus_trader,AI_POLICY.md,Rust,30350,Organization,2018-06-25,2026-10-20,1223,Production-grade Rust-native trading engine with deterministic event-driven architecture
+openai/openai-agents-python,CONTRIBUTING.md,Python,30146,Organization,2025-03-11,2026-10-19,2637,"A lightweight, powerful framework for multi-agent workflows"
+netbirdio/netbird,CONTRIBUTING.md,Go,30080,Organization,2021-04-14,2026-10-19,1814,"NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®"
+simstudioai/sim,.github/CONTRIBUTING.md,TypeScript,29846,Organization,2025-01-05,2026-10-20,7261,"Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders."
+keepassxreboot/keepassxc,.github/CONTRIBUTING.md,C++,29319,Organization,2016-02-28,2026-10-18,297,KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
+envoyproxy/envoy,CONTRIBUTING.md,C++,29095,Organization,2016-08-08,2026-10-20,5603,Cloud-native high-performance edge/middle/service proxy
+pydantic/pydantic,docs/contributing.md,Python,29102,Organization,2017-05-03,2026-10-19,1085,Data validation using Python type hints
+mastra-ai/mastra,CONTRIBUTING.md,TypeScript,28923,Organization,2024-08-06,2026-10-20,13675,Mastra is the modern TypeScript framework for AI-powered applications and agents.
+niri-wm/niri,CONTRIBUTING.md,Rust,28529,Organization,2023-08-10,2026-10-19,467,A scrollable-tiling Wayland compositor.
+huggingface/lerobot,AI_POLICY.md,Python,28303,Organization,2024-01-26,2026-10-19,2051,🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
+PrefectHQ/fastmcp,docs/v2/development/contributing.mdx,Python,28138,Organization,2024-11-30,2026-10-19,2366,"🚀 The fast, Pythonic way to build MCP servers and clients."
+Kilo-Org/kilocode,CONTRIBUTING.md,TypeScript,27664,Organization,2025-03-10,2026-10-20,7592,"Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent."
+eslint/eslint,CONTRIBUTING.md,JavaScript,27574,Organization,2013-06-29,2026-10-19,804,Find and fix problems in your JavaScript code.
+Fosowl/agenticSeek,docs/CONTRIBUTING.md,Python,27514,User,2025-02-19,2026-10-15,80,"Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity."
+tree-sitter/tree-sitter,docs/src/6-contributing.md,Rust,27228,Organization,2013-11-06,2026-10-19,728,An incremental parsing system for programming tools
+elixir-lang/elixir,CONTRIBUTING.md,Elixir,26701,Organization,2011-01-09,2026-10-19,803,Simple from zero to scale
+icsharpcode/ILSpy,CONTRIBUTING.md,C#,26728,Organization,2011-02-04,2026-10-19,454,".NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!"
+NixOS/nixpkgs,CONTRIBUTING.md,Nix,26543,Organization,2012-06-04,2026-10-20,113421,Nix Packages collection & NixOS
+promptfoo/promptfoo,site/docs/contributing.md,TypeScript,26158,Organization,2023-04-28,2026-10-20,5561,"Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic."
+zulip/zulip,CONTRIBUTING.md,Python,26077,Organization,2015-09-25,2026-10-19,3552,Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
+goauthentik/authentik,AI_POLICY.md,Python,26013,Organization,2019-12-30,2026-10-20,7891,The authentication glue you need.
+biomejs/biome,CONTRIBUTING.md,Rust,25980,Organization,2023-07-27,2026-10-19,3139,"A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP."
+shap/shap,CONTRIBUTING.md,Jupyter Notebook,25822,Organization,2016-11-22,2026-10-19,828,A game theoretic approach to explain the output of any machine learning model.
+gocolly/colly,CONTRIBUTING.md,Go,25560,Organization,2017-09-29,2026-10-16,45,Elegant Scraper and Crawler Framework for Golang
+go-delve/delve,Documentation/AI/AI_POLICY.md,Go,24950,Organization,2014-05-20,2026-10-15,211,Delve is a debugger for the Go programming language.
+tursodatabase/turso,CONTRIBUTING.md,Rust,24835,Organization,2023-08-26,2026-10-20,4099,"A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases."
+NirDiamant/GenAI_Agents,CONTRIBUTING.md,Jupyter Notebook,24639,User,2024-09-09,2026-10-17,56,"50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems."
+modelcontextprotocol/python-sdk,CONTRIBUTING.md,Python,24624,Organization,2024-09-24,2026-10-17,1627,The official Python SDK for Model Context Protocol servers and clients
+react-navigation/react-navigation,AI_POLICY.md,TypeScript,24511,Organization,2017-01-26,2026-10-15,286,Routing and navigation for React Native and Web apps
+jaegertracing/jaeger,AI_POLICY.md,Go,23316,Organization,2016-04-15,2026-10-20,1751,"CNCF Jaeger, a Distributed Tracing Platform"
+grpc/grpc-go,CONTRIBUTING.md,Go,23094,Organization,2014-12-08,2026-10-19,683,The Go language implementation of gRPC. HTTP/2 based RPC
+oxc-project/oxc,CONTRIBUTING.md,Rust,23119,Organization,2023-02-09,2026-10-20,10442,⚓ A collection of high-performance JavaScript tools.
+ratatui/ratatui,CONTRIBUTING.md,Rust,23019,Organization,2023-02-12,2026-10-19,579,A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
+mochajs/mocha,.github/CONTRIBUTING.md,JavaScript,22911,Organization,2011-03-07,2026-10-19,671,"☕️ Classic, reliable, trusted test framework for Node.js and the browser"
+renovatebot/renovate,.github/contributing.md,TypeScript,22802,Organization,2016-12-17,2026-10-19,5865,Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+magicuidesign/magicui,CONTRIBUTING.md,MDX,22748,Organization,2023-06-26,2026-10-17,142,UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
+jhipster/generator-jhipster,CONTRIBUTING.md,TypeScript,22465,Organization,2013-10-21,2026-10-20,4404,"JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures."
+QwikDev/qwik,CONTRIBUTING.md,TypeScript,22064,Organization,2021-05-19,2026-10-19,921,"Instant-loading web apps, without effort"
+screenpipe/screenpipe,CONTRIBUTING.md,Rust,21994,Organization,2024-06-19,2026-10-19,4388,"YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context"
+google/adk-python,CONTRIBUTING.md,Python,21914,Organization,2025-04-01,2026-10-20,2125,"An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control."
+catchorg/Catch2,docs/contributing.md,C++,21536,Organization,2010-11-08,2026-10-08,135,"A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)"
+leptos-rs/leptos,AI_POLICY.md,Rust,21404,Organization,2022-07-31,2026-10-18,369,Build fast web applications with Rust.
+stefan-jansen/machine-learning-for-trading,CONTRIBUTING.md,Jupyter Notebook,21466,User,2018-05-09,2026-10-20,799,"Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution."
+qax-os/excelize,.github/CONTRIBUTING.md,Go,21006,Organization,2016-08-29,2026-10-18,148,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+apache/shardingsphere,AI_POLICY.md,Java,20812,Organization,2016-01-18,2026-10-19,3048,"Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases."
+Evil0ctal/Douyin_TikTok_Download_API,documents/en/16-contributing.md,Python,20790,User,2021-11-07,2026-10-18,39,"🚀 自托管的抖音、TikTok 数据采集与无水印视频下载 API，支持 AI agent 通过 MCP 调用与离线语音转文字，Docker 一键部署。| Self-hosted TikTok & Douyin scraper and no-watermark video downloader — async REST API, MCP server for AI agents, CLI and web console, plus offline speech-to-text for downloaded videos. Self-healing identity pool, PostgreSQL archive, one docker compose up."
+python/mypy,CONTRIBUTING.md,Python,20690,Organization,2012-12-07,2026-10-19,1459,Optional static typing for Python
+pydantic/pydantic-ai,docs/contributing.md,Python,20737,Organization,2024-06-21,2026-10-20,4742,"How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end."
+wagtail/wagtail,.github/CONTRIBUTING.md,Python,20580,Organization,2014-02-03,2026-10-16,866,A Django content management system focused on flexibility and user experience
+ImranR98/Obtainium,docs/CONTRIBUTING.md,Dart,20624,User,2022-08-11,2026-10-18,294,Get Android app updates straight from the source.
+go-playground/validator,.github/CONTRIBUTING.md,Go,20206,Organization,2015-02-12,2026-10-19,148,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving"
+rizinorg/cutter,CONTRIBUTING.md,C++,20061,Organization,2017-09-25,2026-09-11,121,Free and Open Source Reverse Engineering Platform powered by rizin
+apollographql/apollo-client,CONTRIBUTING.md,TypeScript,19801,Organization,2016-02-26,2026-10-19,415,"The industry-leading GraphQL client for TypeScript, JavaScript, React, Vue, Angular, and more. Apollo Client delivers powerful caching, intuitive APIs, and comprehensive developer tools to accelerate your app development."
+elizaOS/eliza,CONTRIBUTING.md,TypeScript,19629,Organization,2024-07-09,2026-10-20,19351,Open source agentic operating system
+huggingface/trl,CONTRIBUTING.md,Python,19555,Organization,2020-03-27,2026-10-19,2740,Train transformer language models with reinforcement learning.
+iCHAIT/awesome-macOS,.github/contributing.md,,19355,User,2015-05-25,2026-08-23,607," A curated list of awesome applications, softwares, tools and shiny things for macOS."
+elysiajs/elysia,AI_POLICY.md,TypeScript,19269,Organization,2022-12-04,2026-10-19,196,Ergonomic Framework for Humans
+huggingface/sentence-transformers,CONTRIBUTING.md,Python,19193,Organization,2019-07-24,2026-10-19,552,"State-of-the-Art Embeddings, Retrieval, and Reranking"
+keon/awesome-nlp,contributing.md,,19088,User,2015-12-01,2026-10-12,95,:book: A curated list of resources dedicated to Natural Language Processing (NLP)
+lightgbm-org/LightGBM,CONTRIBUTING.md,C++,18893,Organization,2016-08-05,2026-10-20,315,"A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks."
+wled/WLED,CONTRIBUTING.md,C++,18880,Organization,2016-12-20,2026-10-19,519,Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!
+lichess-org/lila,AI_POLICY.md,Scala,18863,Organization,2012-02-21,2026-10-19,2412,"♞ lichess.org: the forever free, adless and open source chess server ♞"
+wasp-lang/wasp,CONTRIBUTING.md,TypeScript,18777,Organization,2020-01-30,2026-10-19,1256,"The batteries-included full-stack framework for the AI era. Develop JS/TS web apps (React, Node.js, and Prisma) using declarative code that abstracts away complex full-stack features like auth, background jobs, RPC, email sending, end-to-end type safety, single-command deployment, and more."
+audacity/audacity,AI_POLICY.md,C++,18786,Organization,2015-03-26,2026-10-19,948,Audio Editor
+ruffle-rs/ruffle,CONTRIBUTING.md,Rust,18712,Organization,2019-04-25,2026-10-20,1556,A Flash Player emulator written in Rust
+amir1376/ab-download-manager,CONTRIBUTING.md,Kotlin,18657,User,2024-07-07,2026-10-15,151,A Download Manager that speeds up your downloads
+plotly/plotly.js,CONTRIBUTING.md,JavaScript,18364,Organization,2015-11-05,2026-10-19,296,Open-source JavaScript charting library behind Plotly and Dash
+gfx-rs/wgpu,CONTRIBUTING.md,Rust,18339,Organization,2018-09-13,2026-10-19,1549,"A cross-platform, safe, pure-Rust graphics API."
+langchain-ai/langchainjs,CONTRIBUTING.md,TypeScript,18283,Organization,2023-02-06,2026-10-20,2112,The agent engineering platform
+camel-ai/camel,CONTRIBUTING.md,Python,17937,Organization,2023-03-17,2026-10-19,724,🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org
+google-gemini/cookbook,CONTRIBUTING.md,Jupyter Notebook,17850,Organization,2024-03-13,2026-10-19,310,Examples and guides for using the Gemini API
+rqlite/rqlite,CONTRIBUTING.md,Go,17807,Organization,2014-08-23,2026-10-19,538,"The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort."
+apache/pouchdb,CONTRIBUTING.md,JavaScript,17622,Organization,2010-06-10,2026-10-17,134,:kangaroo: - PouchDB is a pocket-sized database.
+foambubble/foam,CONTRIBUTING.md,TypeScript,17457,Organization,2020-06-19,2026-10-14,128,A personal knowledge management and sharing system for VSCode
+ranger/ranger,CONTRIBUTING.md,Python,17428,Organization,2009-06-04,2026-09-09,50,A VIM-inspired filemanager for the console
+vitest-dev/vitest,AI_POLICY.md,TypeScript,17263,Organization,2021-12-03,2026-10-19,1811,Next generation testing framework powered by Vite.
+termux/termux-packages,CONTRIBUTING.md,Shell,17199,Organization,2015-06-12,2026-10-19,3074,A package build system for Termux.
+ipfs/kubo,CONTRIBUTING.md,Go,17151,Organization,2014-06-26,2026-10-18,359,"IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API"
+coder/coder,CONTRIBUTING.md,Go,17109,Organization,2021-12-22,2026-10-20,9579,Secure environments for developers and their agents
+suitenumerique/docs,CONTRIBUTING.md,Python,16934,Organization,2024-01-09,2026-10-19,761,"Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-documents with full ownership of your data. Built to scale with Django and React."
+systemd/systemd,docs/CONTRIBUTING.md,C,16859,Organization,2015-03-25,2026-10-20,3739,The systemd System and Service Manager
+clap-rs/clap,AI_POLICY.md,Rust,16782,Organization,2015-02-25,2026-10-06,252,"A full featured, fast Command Line Argument Parser for Rust"
+prestodb/presto,CONTRIBUTING.md,Java,16762,Organization,2012-08-09,2026-10-20,2002,The official home of the Presto distributed SQL query engine for big data
+pipecat-ai/pipecat,CONTRIBUTING.md,Python,16618,Organization,2023-12-27,2026-10-20,2693,"Open Source framework for voice agents, multimodal apps, and realtime AI. Maintained by Daily and the community."
+typescript-eslint/typescript-eslint,docs/Contributing.mdx,TypeScript,16432,Organization,2019-01-13,2026-10-19,911,:sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
+huggingface/transformers.js,CONTRIBUTING.md,JavaScript,16355,Organization,2023-02-13,2026-10-15,239,"State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!"
+cryptomator/cryptomator,.github/CONTRIBUTING.md,Java,16332,Organization,2014-02-02,2026-10-16,122,"Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data."
+zauberzeug/nicegui,CONTRIBUTING.md,Python,16301,Organization,2021-05-07,2026-10-16,613,Create web-based user interfaces with Python. The nice way.
+scalar/scalar,CONTRIBUTING.md,TypeScript,16288,Organization,2023-08-16,2026-10-19,2954,Scalar is an open-source API platform: 🌐 Modern REST API Client 📖 Beautiful API References ✨ 1st-Class OpenAPI/Swagger Support
+go-task/task,website/src/next/docs/contributing.md,Go,16268,Organization,2017-02-27,2026-10-20,390,"A fast, cross-platform build tool inspired by Make, designed for modern workflows."
+alibaba/MNN,CONTRIBUTING.md,C++,16250,Organization,2019-04-15,2026-10-19,541,"MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI."
+tracel-ai/burn,CONTRIBUTING.md,Rust,16131,Organization,2022-07-18,2026-10-19,1631,"Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability."
+winapps-org/winapps,.github/CONTRIBUTING.md,Shell,16095,Organization,2023-07-05,2026-10-16,63,"Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/"
+quarkusio/quarkus,AI_POLICY.md,Java,15947,Organization,2018-07-06,2026-10-20,4941,Quarkus: Supersonic Subatomic Java.
+beetbox/beets,AI_POLICY.md,Python,15814,Organization,2010-08-09,2026-10-18,555,music library manager and MusicBrainz tagger
+dolphin-emu/dolphin,Contributing.md,C++,15690,Organization,2013-07-22,2026-10-19,912,"Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements."
+Homebrew/homebrew-core,CONTRIBUTING.md,Ruby,15628,Organization,2016-03-01,2026-10-20,69088,🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere
+sass/sass,CONTRIBUTING.md,TypeScript,15371,Organization,2010-09-22,2026-10-19,80,Sass makes CSS fun!
+apache/pulsar,CONTRIBUTING.md,Java,15351,Organization,2016-06-28,2026-10-20,1680,Apache Pulsar - distributed pub-sub messaging system
+musescore/MuseScore,AI_POLICY.md,C++,15270,Organization,2012-05-26,2026-10-19,2418,"MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!"
+lynx-family/lynx,CONTRIBUTING.md,C++,15198,Organization,2025-03-04,2026-10-19,6726,Empower the Web community and invite more to build across platforms.
+Nuitka/Nuitka,CONTRIBUTING.md,Python,15196,Organization,2013-04-23,2026-10-17,151,"Nuitka is a Python compiler written in Python. It's fully compatible with Python 2.6, 2.7, 3.4-3.14. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module."
+tisfeng/Easydict,CONTRIBUTING.md,Swift,15005,User,2022-11-15,2026-10-19,165,一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.
+plait-board/drawnix,CONTRIBUTING.md,TypeScript,14958,Organization,2024-06-04,2026-09-08,78,"开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc."
+optuna/optuna,CONTRIBUTING.md,Python,14941,Organization,2018-02-21,2026-10-16,520,A hyperparameter optimization framework
+srwi/EverythingToolbar,CONTRIBUTING.md,C#,14940,User,2020-09-13,2026-10-18,26,Everything integration for the Windows taskbar.
+ktorio/ktor,AI_POLICY.md,Kotlin,14548,Organization,2015-08-03,2026-10-19,753,Framework for quickly creating connected applications in Kotlin with minimal effort
+Vendicated/Vencord,CONTRIBUTING.md,TypeScript,14281,User,2022-08-24,2026-10-18,776,The cutest Discord modification
+thanos-io/thanos,CONTRIBUTING.md,Go,14241,Organization,2017-11-01,2026-10-19,430,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+diesel-rs/diesel,CONTRIBUTING.md,Rust,14212,Organization,2015-08-29,2026-10-19,336,"A safe, extensible ORM and Query Builder for Rust"
+ClementTsang/bottom,AI_POLICY.md,Rust,14111,User,2019-08-28,2026-10-04,367,Yet another cross-platform graphical process/system monitor.
+567-labs/instructor,CONTRIBUTING.md,Python,14036,Organization,2023-06-14,2026-10-14,739,structured outputs for llms
+pystardust/ani-cli,CONTRIBUTING.md,Shell,14011,User,2021-06-09,2026-10-05,127,A cli tool to browse and play anime
+qazbnm456/awesome-web-security,CONTRIBUTING.md,Python,13923,User,2017-01-29,2026-09-14,103,🐶 A curated list of Web Security materials and resources.
+rommapp/romm,CONTRIBUTING.md,Python,13943,Organization,2023-03-08,2026-10-19,1616,"A beautiful, powerful, self-hosted ROM manager and player."
+Zettlr/Zettlr,CONTRIBUTING.md,TypeScript,13786,Organization,2017-12-26,2026-10-18,300,Your One-Stop Publication Workbench
+JustArchiNET/ArchiSteamFarm,.github/CONTRIBUTING.md,C#,13758,Organization,2015-10-25,2026-10-19,48,C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
+BasedHardware/omi,CONTRIBUTING.md,Python,13770,Organization,2024-03-22,2026-10-20,13128,"AI that sees your screen, listens to your conversations and tells you what to do"
+modelcontextprotocol/typescript-sdk,CONTRIBUTING.md,TypeScript,13618,Organization,2024-09-24,2026-10-20,1502,The official TypeScript SDK for Model Context Protocol servers and clients
+RaspberryPiFoundation/blockly,packages/docs/docs/guides/contribute/core/ai_policy.mdx,TypeScript,13586,Organization,2013-10-25,2026-10-19,760,The web-based visual programming editor.
+CleverRaven/Cataclysm-DDA,CONTRIBUTING.md,C++,13385,Organization,2012-09-26,2026-10-19,4024,Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
+darktable-org/darktable,CONTRIBUTING.md,C,13299,Organization,2012-03-21,2026-10-20,1872,darktable is an open source photography workflow application and raw developer
+seerr-team/seerr,CONTRIBUTING.md,TypeScript,12947,Organization,2022-03-09,2026-10-19,740,"Open-source media request and discovery manager for Jellyfin, Plex, and Emby."
+steven2358/awesome-generative-ai,CONTRIBUTING.md,,12744,User,2022-10-20,2026-10-15,1267,A curated list of modern Generative Artificial Intelligence projects and services
+PaperMC/Paper,CONTRIBUTING.md,Java,12746,Organization,2016-01-22,2026-10-19,689,"The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies"
+n0-computer/iroh,AI_POLICY.md,Rust,12787,Organization,2022-03-14,2026-10-19,759,"IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps."
+Kludex/starlette,AI_POLICY.md,Python,12676,User,2018-06-25,2026-10-18,499,The little ASGI framework that shines. 🌟
+simonw/llm,docs/contributing.md,Python,12644,User,2023-04-01,2026-10-18,330,Access large language models from the command-line
+infracost/infracost,CONTRIBUTING.md,Go,12574,Organization,2020-06-24,2026-10-15,125,"Cloud cost intelligence for engineers, AI coding agents, and CI/CD 💰📉 Shift FinOps Left!"
+Pumpkin-MC/Pumpkin,CONTRIBUTING.md,Rust,12536,Organization,2024-07-28,2026-10-19,2024,Empowering everyone to host fast and efficient Minecraft servers
+webpro-nl/knip,AI_POLICY.md,TypeScript,12478,Organization,2022-10-04,2026-10-19,467,"✂️ Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!"
+sqlalchemy/sqlalchemy,.github/CONTRIBUTING.md,Python,12250,Organization,2018-11-27,2026-10-19,243,The Database Toolkit for Python
+maxrave-dev/SimpMusic,CONTRIBUTING.md,Kotlin,12212,User,2023-04-15,2026-10-18,140,A cross-platform music app using YouTube Music for backend
+grpc/grpc-java,CONTRIBUTING.md,Java,12074,Organization,2014-12-08,2026-10-19,573,The Java gRPC implementation. HTTP/2 based RPC
+GitoxideLabs/gitoxide,CONTRIBUTING.md,Rust,12033,Organization,2018-06-07,2026-10-19,603,"An idiomatic, lean, fast & safe pure Rust implementation of Git"
+coil-kt/coil,.github/ISSUE_TEMPLATE/CONTRIBUTING.md,Kotlin,11940,Organization,2019-08-10,2026-10-19,340,Image loading for Android and Compose Multiplatform.
+Kareadita/Kavita,.github/AI_POLICY.md,C#,11895,Organization,2020-12-12,2026-10-20,306,"Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family."
+streamlink/streamlink,CONTRIBUTING.md,Python,11858,Organization,2016-09-16,2026-10-18,360,Streamlink is a CLI utility which pipes video streams from various services into a video player
+mrkai77/Loop,AI_POLICY.md,Swift,11814,User,2023-01-24,2026-10-18,160,Window management made elegant.
+WordPress/gutenberg,storybook/stories/design-system/contributing.md,TypeScript,11776,Organization,2017-02-03,2026-10-20,9769,The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
+quickwit-oss/quickwit,AI_POLICY.md,Rust,11727,Organization,2021-04-13,2026-10-19,861,Cloud-native OSS search engine for observability
+bastienwirtz/homer,CONTRIBUTING.md,Vue,11678,User,2018-06-14,2026-10-18,65,A very simple static homepage for your server.
+rerun-io/rerun,CONTRIBUTING.md,Rust,11612,Organization,2022-04-08,2026-10-19,1145,"Visualize, query, and stream to train on multimodal robotics data."
+linkerd/linkerd2,CONTRIBUTING.md,Go,11517,Organization,2017-12-04,2026-10-19,955,"Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x."
+yargs/yargs,AI_POLICY.md,JavaScript,11506,Organization,2013-11-07,2026-10-13,103,"yargs the modern, pirate-themed successor to optimist."
+jhy/jsoup,.github/CONTRIBUTING.md,Java,11411,User,2009-12-19,2026-10-14,141,"jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety."
+google/go-github,CONTRIBUTING.md,Go,11325,Organization,2013-05-24,2026-10-19,717,Go library for accessing the GitHub v3 API
+perspective-dev/perspective,CONTRIBUTING.md,Rust,11323,Organization,2017-11-02,2026-10-18,126,"A data visualization and analytics component, especially well-suited for large and/or streaming datasets."
+tui-cs/Terminal.Gui,CONTRIBUTING.md,C#,11283,Organization,2017-12-11,2026-10-18,874,Cross Platform Terminal UI toolkit for .NET
+Kludex/uvicorn,AI_POLICY.md,Python,11018,User,2017-05-31,2026-10-19,378,"An ASGI web server, for Python. 🦄"
+apache/thrift,CONTRIBUTING.md,C++,10960,Organization,2009-09-18,2026-10-19,805,Apache Thrift
+deniscerri/ytdlnis,CONTRIBUTING.MD,Kotlin,10658,User,2022-05-27,2026-10-19,131,Full-featured audio/video downloader for Android using yt-dlp
+nextcloud/all-in-one,AI_POLICY.md,PHP,10614,Organization,2021-11-30,2026-10-19,1210,📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
+polarsource/polar,CONTRIBUTING.md,Python,10370,Organization,2023-01-26,2026-10-19,7300,Polar — A billing platform for the intelligence era
+Netflix/metaflow,CONTRIBUTING.md,Python,10308,Organization,2019-09-17,2026-10-16,590,"Build, Manage and Deploy AI/ML Systems"
+py-pdf/pypdf,CONTRIBUTING.md,Python,10264,Organization,2012-01-06,2026-10-19,573,"A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files"
+jeffvli/feishin,CONTRIBUTING.md,TypeScript,10192,User,2022-07-25,2026-10-18,373,A modern self-hosted music player.
+OpenMined/PySyft,CONTRIBUTING.md,Python,10046,Organization,2017-07-18,2026-10-19,163,Perform data science on data that remains in someone else's server
+cemu-project/Cemu,CONTRIBUTING.md,C++,10007,Organization,2022-08-22,2026-10-15,173,Cemu - Wii U emulator
+XiaoYouChR/Ghost-Downloader-3,CONTRIBUTING.md,Python,10097,User,2023-08-16,2026-10-19,153,The only downloader you need. 下载器的集大成者。
+antiwork/gumroad,CONTRIBUTING.md,Ruby,9980,Organization,2025-04-03,2026-10-19,5719,See what sticks
+gruntwork-io/terragrunt,docs/src/content/docs/05-community/01-contributing.mdx,Go,9886,Organization,2016-05-23,2026-10-19,1645,Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
+webdriverio/webdriverio,CONTRIBUTING.md,TypeScript,9852,Organization,2011-08-30,2026-10-19,1060,Next-gen browser and mobile automation test framework for Node.js
+roboflow/rf-detr,.github/CONTRIBUTING.md,Python,9835,Organization,2025-03-19,2026-10-19,801,"RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO, designed for fine-tuning. [ICLR 2026]"
+falconry/falcon,CONTRIBUTING.md,Python,9810,Organization,2012-12-06,2026-10-12,166,"The no-magic web API and microservices framework for Python developers, with a focus on reliability and performance at scale."
+tmc/langchaingo,CONTRIBUTING.md,Go,9734,User,2023-02-18,2026-10-17,102,"LangChain for Go, the easiest way to write LLM-based programs in Go"
+bluesky-social/atproto,CONTRIBUTING.md,TypeScript,9699,Organization,2021-12-17,2026-10-19,1145,Social networking technology created by Bluesky
+tobymao/sqlglot,CONTRIBUTING.md,Python,9697,User,2021-03-13,2026-10-19,1951,Python SQL Parser and Transpiler
+aws/serverless-application-model,CONTRIBUTING.md,Python,9576,Organization,2016-10-10,2026-10-19,170,The AWS Serverless Application Model (AWS SAM) transform is a AWS CloudFormation macro that transforms SAM templates into CloudFormation templates.
+leanprover/lean4,CONTRIBUTING.md,Lean,9602,Organization,2018-04-15,2026-10-20,4089,Lean 4 programming language and theorem prover
+spring-projects/spring-ai,CONTRIBUTING.md,Java,9557,Organization,2023-06-27,2026-10-16,1582,An Application Framework for AI Engineering
+buefy/buefy,.github/CONTRIBUTING.md,Vue,9509,Organization,2017-03-31,2026-09-08,72,Lightweight UI components for Vue.js based on Bulma
+usekaneo/kaneo,AI_POLICY.md,TypeScript,9522,Organization,2024-12-31,2026-10-19,1145,"🎯 All you need. Nothing you don't. Open source project management that works for you, not against you."
+databendlabs/databend,AI_POLICY.md,Rust,9472,Organization,2020-10-10,2026-10-20,1570,"Data Agent Ready Warehouse : One for Analytics, Search, AI, Python Sandbox. — rebuilt from scratch. Unified architecture on your S3."
+Universal-Debloater-Alliance/universal-android-debloater-next-generation,CONTRIBUTING.md,Rust,9488,Organization,2023-10-26,2026-10-19,161,"Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device."
+BoundaryML/baml,CONTRIBUTING.md,Rust,9423,Organization,2023-10-06,2026-10-20,2437,The programming language for agents
+paradedb/paradedb,CONTRIBUTING.md,Rust,9416,Organization,2023-06-30,2026-10-20,2783,"One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension."
+freebsd/freebsd-src,crypto/openssl/CONTRIBUTING.md,C,9398,Organization,2011-09-05,2026-10-19,600,The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....
+spyder-ide/spyder,AI_POLICY.md,Python,9371,Organization,2015-02-16,2026-10-15,524,Official repository for Spyder - The Scientific Python Development Environment
+kubernetes-sigs/kubebuilder,CONTRIBUTING.md,Go,9351,Organization,2018-03-14,2026-10-19,765,Kubebuilder - SDK for building Kubernetes APIs using CRDs
+pterodactyl/panel,CONTRIBUTING.md,PHP,9352,Organization,2015-12-06,2026-10-19,184,"Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users."
+runatlantis/atlantis,CONTRIBUTING.md,Go,9330,Organization,2018-02-06,2026-10-19,871,Terraform Pull Request Automation
+OctoPrint/OctoPrint,CONTRIBUTING.md,Python,9151,Organization,2012-12-31,2026-10-19,198,OctoPrint is the snappy web interface for your 3D printer!
+firezone/firezone,docs/CONTRIBUTING.md,Elixir,9121,Organization,2020-04-22,2026-10-19,4492,Blazing-fast remote access
+lysine-dev/okio,CONTRIBUTING.md,Kotlin,9053,Organization,2014-03-17,2026-10-19,131,"A modern I/O library for Android, Java, and Kotlin Multiplatform."
+kata-containers/kata-containers,CONTRIBUTING.md,Rust,8970,Organization,2017-12-07,2026-10-19,1694,"Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/"
+redpanda-data/connect,CONTRIBUTING.md,Go,8789,Organization,2016-03-22,2026-10-19,1165,Fancy stream processing made operationally mundane
+Project-MONAI/MONAI,CONTRIBUTING.md,Python,8788,Organization,2019-10-11,2026-10-19,453,AI Toolkit for Healthcare Imaging
+florisboard/florisboard,AI_POLICY.md,Kotlin,8708,Organization,2020-04-08,2026-10-19,97,An open-source keyboard for Android which respects your privacy. Currently in beta.
+librosa/librosa,CONTRIBUTING.md,Python,8690,Organization,2012-10-20,2026-10-06,78,Python library for audio and music analysis
+nvim-tree/nvim-tree.lua,CONTRIBUTING.md,Lua,8664,Organization,2020-02-04,2026-10-19,99,A file explorer tree for neovim written in lua
+google-deepmind/alphafold3,CONTRIBUTING.md,Python,8659,Organization,2024-11-11,2026-10-19,89,AlphaFold 3 inference pipeline.
+gitextensions/gitextensions,CONTRIBUTING.md,C#,8598,Organization,2008-12-06,2026-10-13,381,Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019).
+tubearchivist/tubearchivist,CONTRIBUTING.md,Python,8525,Organization,2021-09-05,2026-10-16,56,Your self hosted YouTube media server
+archlinux/archinstall,AI_POLICY.md,Python,8500,Organization,2018-04-06,2026-10-19,730,"Arch Linux installer - guided, templates etc."
+openbao/openbao,CONTRIBUTING.md,Go,8578,Organization,2023-11-09,2026-10-19,1715,"OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys."
+fluxcd/flux2,CONTRIBUTING.md,Go,8451,Organization,2020-04-24,2026-10-19,278,Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
+hatchet-dev/hatchet,AI_POLICY.md,Go,8148,Organization,2023-12-15,2026-10-20,2511,"🪓 An orchestration engine for background tasks, AI agents, and durable workflows"
+nativewind/nativewind,contributing.md,JavaScript,8116,Organization,2022-04-02,2026-10-16,71,The utility-first workflow you love from Tailwind CSS in your React Native applications.
+zeek/zeek,AI_POLICY.md,C++,8120,Organization,2012-07-06,2026-10-20,789,Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
+podman-desktop/podman-desktop,CONTRIBUTING.md,TypeScript,8091,Organization,2022-03-03,2026-10-19,3508,"Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop."
+Rich-Harris/degit,docs/CONTRIBUTING.md,TypeScript,7949,User,2017-07-31,2026-09-13,108,Straightforward project scaffolding
+vrana/adminer,docs/CONTRIBUTING.md,PHP,7917,User,2010-04-25,2026-10-16,45,Database management in a single PHP file
+stanfordnlp/stanza,CONTRIBUTING.md,Python,7905,Organization,2017-09-26,2026-10-19,120,"Stanford NLP Python library for tokenization, sentence segmentation, NER, and parsing of many human languages"
+NirDiamant/Prompt_Engineering,CONTRIBUTING.md,Jupyter Notebook,7909,User,2024-10-10,2026-10-17,33,"22 prompt engineering techniques with hands-on Jupyter Notebook tutorials, from fundamental concepts to advanced strategies for leveraging LLMs."
+macvim-dev/macvim,CONTRIBUTING.md,Vim Script,7885,Organization,2012-09-01,2026-10-19,50,Vim - the text editor - for macOS
+go-git/go-git,AI_POLICY.md,Go,7804,Organization,2019-12-19,2026-10-16,691,A highly extensible Git implementation in pure Go.
+rustls/rustls,CONTRIBUTING.md,Rust,7689,Organization,2016-05-02,2026-10-19,563,A modern TLS library in Rust
+plastic-labs/honcho,CONTRIBUTING.md,Python,7693,Organization,2023-09-10,2026-10-19,865,Memory library for building stateful agents
+guaguastandup/zotero-pdf2zh,docs/en/contributing.md,Python,7638,User,2025-01-14,2026-09-23,35,PDF2zh for Zotero | Zotero PDF中文翻译插件
+openai/tart,CONTRIBUTING.md,Swift,7582,Organization,2022-02-01,2026-10-17,113,macOS and Linux VMs on Apple Silicon to use in CI and other automations
+conda/conda,CONTRIBUTING.md,Python,7534,Organization,2012-10-15,2026-10-19,876,"A system-level, binary package and environment manager running on all major operating systems and platforms."
+Kunzisoft/KeePassDX,CONTRIBUTING.md,Kotlin,7506,Organization,2017-10-17,2026-10-17,34,"Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way."
+projectcalico/calico,AI_POLICY.md,Go,7397,Organization,2016-07-21,2026-10-19,2866,Cloud native networking and network security
+ml-explore/mlx-lm,CONTRIBUTING.md,Python,7406,Organization,2025-03-11,2026-10-18,988,Run LLMs with MLX
+NVIDIA-NeMo/Guardrails,AI_POLICY.md,Python,7331,Organization,2023-04-18,2026-10-19,804,NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
+kyegomez/swarms,CONTRIBUTING.md,Python,7282,User,2023-05-11,2026-10-19,1094,The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai
+TagStudioDev/TagStudio,docs/contributing.md,Python,7250,Organization,2024-04-17,2026-10-15,182,A User-Focused Photo & File Management System
+pypa/hatch,docs/community/contributing.md,Python,7245,Organization,2017-05-31,2026-10-13,253,"Modern, extensible Python project management"
+magit/magit,.github/CONTRIBUTING.md,Emacs Lisp,7239,Organization,2010-05-07,2026-10-19,31,It's Magit! A Git Porcelain inside Emacs.
+lance-format/lance,docs/src/community/contributing.md,Rust,7174,Organization,2022-07-07,2026-10-20,3674,"Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming.."
+vespa-engine/vespa,AI_POLICY.md,Java,7133,Organization,2016-06-03,2026-10-19,3078,The AI search platform
+hydro-dev/Hydro,CONTRIBUTING.md,TypeScript,7136,Organization,2020-04-01,2026-10-19,99,Hydro - Next generation high performance online-judge platform - 新一代高效强大的信息学在线测评系统 (a.k.a. vj5)
+facebook/pyrefly,AI_POLICY.md,Rust,7116,Organization,2025-02-19,2026-10-19,1815,A fast type checker and language server for Python
+agones-dev/agones,CONTRIBUTING.md,Go,7075,Organization,2017-12-07,2026-10-19,371,Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
+skim-rs/skim,.github/CONTRIBUTING.md,Rust,6999,Organization,2016-05-29,2026-10-19,231,Fuzzy Finder in rust!
+wesnoth/wesnoth,CONTRIBUTING.md,C++,6944,Organization,2013-04-14,2026-10-19,682,"An open source, turn-based strategy game with a high fantasy theme."
+olimorris/codecompanion.nvim,CONTRIBUTING.md,Lua,6899,User,2023-12-27,2026-10-19,753,"✨ AI Coding, Vim Style"
+hexclave/hexclave,CONTRIBUTING.md,TypeScript,6873,Organization,2024-02-28,2026-10-19,1113,"The user infrastructure platform. You choose the frontend, backend, and database. Hexclave handles everything else."
+gotson/komga,CONTRIBUTING.md,Kotlin,6767,User,2019-08-08,2026-10-14,171,"Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS, Kobo Sync and KOReader Sync support"
+GreptimeTeam/greptimedb,CONTRIBUTING.md,Rust,6747,Organization,2022-04-11,2026-10-19,2138,"The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage."
+aws/aws-sam-cli,CONTRIBUTING.md,Python,6738,Organization,2017-05-23,2026-10-19,899,"CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM"
+x402-foundation/x402,CONTRIBUTING.md,TypeScript,6738,Organization,2025-02-21,2026-10-15,2364,A payments protocol for the internet. Built on HTTP.
+microsoft/vscode-docs,CONTRIBUTING.md,Markdown,6673,Organization,2015-08-26,2026-10-20,1211,Public documentation for Visual Studio Code
+rust-lang/miri,CONTRIBUTING.md,Rust,6667,Organization,2015-11-12,2026-10-19,649,An interpreter for Rust's mid-level intermediate representation
+flashinfer-ai/flashinfer,CONTRIBUTING.md,Cuda,6709,Organization,2023-07-22,2026-10-20,3673,FlashInfer: Kernel Library for LLM Serving
+halide/Halide,CONTRIBUTING.md,C++,6624,Organization,2012-07-31,2026-10-20,556,"a language for fast, portable data-parallel computation"
+scikit-image/scikit-image,CONTRIBUTING.md,Python,6616,Organization,2011-07-07,2026-10-09,306,Image processing in Python
+Tautulli/Tautulli,CONTRIBUTING.md,Python,6616,Organization,2015-02-22,2026-10-19,187,A Python based monitoring and tracking tool for Plex Media Server.
+orval-labs/orval,CONTRIBUTING.md,TypeScript,6548,Organization,2020-02-05,2026-10-19,1274,"orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺"
+nteract/papermill,CONTRIBUTING.md,Python,6494,Organization,2017-07-06,2026-10-05,70,"📚 Parameterize, execute, and analyze notebooks"
+wakujs/waku,CONTRIBUTING.md,TypeScript,6474,Organization,2023-03-03,2026-10-20,521,⛩️ The minimal React framework
+glpi-project/glpi,CONTRIBUTING.md,PHP,6474,Organization,2015-07-16,2026-10-19,3057,"GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing."
+tock/tock,.github/CONTRIBUTING.md,Rust,6470,Organization,2015-05-28,2026-10-19,577,A secure embedded operating system for microcontrollers
+lxc/incus,CONTRIBUTING.md,Go,6443,Organization,2023-07-22,2026-10-20,1070,Powerful system container and virtual machine manager
+cloud-hypervisor/cloud-hypervisor,CONTRIBUTING.md,Rust,6399,Organization,2019-04-30,2026-10-17,1347,"A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security."
+microsoft/aspire,docs/contributing.md,C#,6376,Organization,2023-09-25,2026-10-20,5034,"Aspire is the tool for code-first, extensible, observable dev and deploy."
+ejbills/DockDoor,CONTRIBUTING.md,Swift,6393,User,2024-06-03,2026-10-18,167,"Window peeking, alt-tab and other enhancements for macOS"
+HeliBorg/HeliBoard,CONTRIBUTING.md,Kotlin,6373,Organization,2022-03-09,2026-10-18,125,Customizable and privacy-conscious open-source keyboard
+valhalla/valhalla,CONTRIBUTING.md,C++,6341,Organization,2016-01-19,2026-10-19,457,Open Source Routing Engine for OpenStreetMap
+RMerl/asuswrt-merlin.ng,release/src/router/dropbear/CONTRIBUTING.md,C,6243,User,2017-09-05,2026-10-17,38,Third party firmware for Asus routers (newer codebase)
+StackExchange/StackExchange.Redis,CONTRIBUTING.md,C#,6204,Organization,2014-03-14,2026-10-16,221,The Redis client for .NET
+Redot-Engine/redot-engine,AI_POLICY.md,C++,6139,Organization,2017-10-13,2026-10-19,303,Redot Engine – Multi-platform 2D and 3D game engine
+online-ml/river,CONTRIBUTING.md,Python,6130,Organization,2019-01-24,2026-10-16,268,🌊 Online machine learning in Python
+quarto-dev/quarto-cli,.github/CONTRIBUTING.md,JavaScript,6100,Organization,2020-09-25,2026-10-19,545,Open-source scientific and technical publishing system built on Pandoc.
+pyinfra-dev/pyinfra,AI_POLICY.md,Python,6040,Organization,2014-10-19,2026-10-15,365,"🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and scales from one server to thousands."
+elk-zone/elk,CONTRIBUTING.md,Vue,6035,Organization,2022-11-14,2026-10-12,250,A nimble Mastodon web client
+mostlygeek/llama-swap,CONTRIBUTING.md,Go,6017,User,2024-10-04,2026-10-19,439,"Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc"
+KhronosGroup/MoltenVK,CONTRIBUTING.md,Objective-C++,5892,Organization,2017-11-07,2026-10-13,129,"MoltenVK is a Vulkan Portability implementation. It layers a subset of the high-performance, industry-standard Vulkan graphics and compute API over Apple's Metal graphics framework, enabling Vulkan applications to run on macOS, iOS and tvOS."
+pagefaultgames/pokerogue,CONTRIBUTING.md,TypeScript,5885,Organization,2023-03-28,2026-10-19,964,A browser based Pokémon fangame heavily inspired by the roguelite genre.
+python-attrs/attrs,.github/AI_POLICY.md,Python,5854,Organization,2015-01-27,2026-10-13,131,Python Classes Without Boilerplate
+alainm23/planify,AI_POLICY.md,Vala,5757,User,2018-10-22,2026-10-16,438,"Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME"
+biolab/orange3,AI_POLICY.md,Python,5725,Organization,2013-02-22,2026-10-13,101,🍊 :bar_chart: :bulb: Orange: Interactive data analysis
+mlpack/mlpack,CONTRIBUTING.md,C++,5714,Organization,2014-12-17,2026-10-15,182,"mlpack: a fast, header-only C++ machine learning library"
+amnweb/yasb,docs/Contributing.md,Python,5679,User,2024-07-03,2026-10-20,338,A highly configurable Windows status bar written in Python.
+nvim-neo-tree/neo-tree.nvim,CONTRIBUTING.md,Lua,5633,Organization,2021-12-12,2026-10-17,125,Neovim plugin to manage the file system and other tree like structures.
+serenity-rs/serenity,CONTRIBUTING.md,Rust,5633,Organization,2016-11-06,2026-10-13,152,A Rust library for the Discord API.
+farm-fe/farm,CONTRIBUTING.md,Rust,5602,Organization,2022-06-26,2026-10-12,59,Extremely fast Vite-compatible web build tool written in Rust
+grafana/tempo,CONTRIBUTING.md,Go,5538,Organization,2020-01-24,2026-10-19,2143,"Grafana Tempo is a high volume, minimal dependency distributed tracing backend."
+bcpierce00/unison,CONTRIBUTING.md,OCaml,5536,User,2016-02-24,2026-09-20,36,Unison file synchronizer
+openemr/openemr,CONTRIBUTING.md,PHP,5532,Organization,2010-05-21,2026-10-19,4017,The most popular open source electronic health records and medical practice management solution.
+domaindrivendev/Swashbuckle.AspNetCore,CONTRIBUTING.md,C#,5496,User,2015-03-16,2026-10-19,525,Swagger tools for documenting API's built on ASP.NET Core
+apache/groovy,CONTRIBUTING.md,Groovy,5474,Organization,2015-04-16,2026-10-19,672,Apache Groovy: A powerful multi-faceted programming language for the JVM platform
+remeda/remeda,CONTRIBUTING.md,TypeScript,5444,Organization,2018-05-07,2026-10-18,208,A utility library for JavaScript and TypeScript.
+ory/keto,CONTRIBUTING.md,Go,5411,Organization,2018-03-17,2026-09-04,65,"The most scalable and customizable permission server on the market. Fix your slow or broken permission system with Google's proven ""Zanzibar"" approach. Supports ACL, RBAC, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters."
+PokeAPI/pokeapi,CONTRIBUTING.md,Python,5414,Organization,2014-12-04,2026-10-20,248,The Pokémon API
+bvaughn/react-resizable-panels,CONTRIBUTING.md,TypeScript,5400,User,2022-12-22,2026-10-20,116,
+achristmascarl/rainfrog,CONTRIBUTING.md,Rust,5376,User,2024-05-15,2026-10-13,95,🐸 a database tool for the terminal
+The-Powder-Toy/The-Powder-Toy,.github/CONTRIBUTING.md,C++,5369,Organization,2010-07-25,2026-10-09,39,"Written in C++ and using SDL, The Powder Toy is a desktop version of the classic 'falling sand' physics sandbox, it simulates air pressure and velocity as well as heat."
+expressjs/expressjs.com,src/content/pages/zh-tw/resources/contributing.mdx,MDX,5368,Organization,2012-06-06,2026-10-19,402,The Express.js Website
+pgmq/pgmq,CONTRIBUTING.md,PLpgSQL,5340,Organization,2023-07-24,2026-10-20,115,A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
+CanadaHonk/porffor,AI_POLICY.md,JavaScript,5329,User,2023-06-25,2026-10-19,85,An ahead-of-time JavaScript compiler
+quinn-rs/quinn,CONTRIBUTING.md,Rust,5300,Organization,2018-04-03,2026-10-18,458,Async-friendly QUIC implementation in Rust
+camel-ai/oasis,CONTRIBUTING.md,Python,5315,Organization,2024-11-13,2026-10-19,49,🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.
+geopandas/geopandas,CONTRIBUTING.md,Python,5281,Organization,2013-06-27,2026-10-12,182,Python tools for geographic data
+lxc/lxc,CONTRIBUTING.md,C,5277,Organization,2012-09-07,2026-10-02,92,LXC - Linux Containers
+dotnet/Silk.NET,CONTRIBUTING.md,C#,5243,Organization,2019-06-10,2026-10-18,80,"The high-speed OpenGL, OpenCL, OpenAL, OpenXR, GLFW, SDL, Vulkan, Assimp, WebGPU, and DirectX bindings library your mother warned you about."
+pollinations/pollinations,CONTRIBUTING.md,TypeScript,5226,Organization,2021-04-15,2026-10-20,7629,Your Friendly Open-Source Gen-AI Platform
+vyperlang/vyper,skills/contributing.md,Python,5182,Organization,2016-11-11,2026-10-19,362,Pythonic Smart Contract Language for the EVM
+otter-sec/anchor,CONTRIBUTING.md,Rust,5156,Organization,2021-01-01,2026-10-19,977,⚓ Solana Program Framework
+joomla/joomla-cms,.github/CONTRIBUTING.md,PHP,5150,Organization,2011-09-27,2026-10-19,1400,Home of the Joomla! Content Management System
+Marker-Inc-Korea/AutoRAG,AI_POLICY.md,TypeScript,5126,Organization,2024-01-10,2026-10-19,535,AutoRAG: Now your agent can find anything in your computer. It gets smarter if you are using it frequently.
+quantumlib/Cirq,CONTRIBUTING.md,Python,5086,Organization,2017-12-14,2026-10-20,620,"Python framework for creating, editing, and running Noisy Intermediate-Scale Quantum (NISQ) circuits."
+Expensify/App,contributingGuides/CONTRIBUTING.md,TypeScript,5066,Organization,2020-08-07,2026-10-20,15862,"Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code."
+yuin/goldmark,CONTRIBUTING.md,Go,5068,User,2019-04-26,2026-10-01,33,":trophy: The Golden Swiss Army Knife for markdown processing. 100% CommonMark compliant, AST w/ CST, Extensible, Fast, CJK-friendly."
+streetcomplete/StreetComplete,AI_POLICY.md,Kotlin,5063,Organization,2016-07-02,2026-10-19,277,Easy to use OpenStreetMap editor for Android and iOS
+diggerhq/digger,CONTRIBUTING.md,Go,5056,Organization,2023-02-24,2026-10-11,344,Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️
+sitespeedio/sitespeed.io,.github/CONTRIBUTING.md,JavaScript,5040,Organization,2012-07-04,2026-10-19,330,"sitespeed.io is an open-source tool for comprehensive web performance analysis, enabling you to test, monitor, and optimize your website’s speed using real browsers in various environments."
+clidey/whodb,CONTRIBUTING.md,Go,5036,Organization,2024-06-11,2026-10-19,619,Where data access meets operational intelligence
+ag2ai/ag2,.github/AI_POLICY.md,Python,5006,Organization,2024-11-11,2026-10-19,1112,AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x
+hynek/structlog,.github/CONTRIBUTING.md,Python,4977,User,2013-08-13,2026-10-17,72,"Simple, powerful, and fast logging for Python."
+sbt/sbt,CONTRIBUTING.md,Scala,4954,Organization,2009-08-17,2026-10-19,1159,"sbt, the interactive build tool"
+f3d-app/f3d,AI_POLICY.md,C++,4860,Organization,2020-02-17,2026-10-18,753,Fast and minimalist 3D viewer.
+Agenta-AI/agenta,CONTRIBUTING.md,TypeScript,4845,Organization,2023-04-26,2026-10-19,3642,Agenta is a workspace where you and your team build agents and automations.
+EpicenterHQ/epicenter,CONTRIBUTING.md,TypeScript,4825,Organization,2023-03-16,2026-10-19,1508,"Open-source, local-first apps."
+openziti/zrok,CONTRIBUTING.md,Go,4781,Organization,2022-07-18,2026-10-08,112,Secure internet sharing made simple.
+dokuwiki/dokuwiki,AI_POLICY.md,PHP,4730,Organization,2010-01-03,2026-09-29,186,The DokuWiki Open Source Wiki Engine
+OpenNMT/CTranslate2,CONTRIBUTING.md,C++,4713,Organization,2019-09-23,2026-10-19,124,Fast inference engine for Transformer models
+capricorn86/happy-dom,CONTRIBUTING.md,TypeScript,4709,User,2019-09-09,2026-10-19,331,A JavaScript implementation of a web browser without its graphical user interface
+mcmonkeyprojects/SwarmUI,CONTRIBUTING.md,C#,4685,Organization,2024-06-21,2026-10-19,168,"SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility."
+cloudflare/workers-sdk,CONTRIBUTING.md,TypeScript,4634,Organization,2021-11-10,2026-10-19,3466,"⛅️ Home to Wrangler, the CLI for Cloudflare Workers®"
+openwrt/packages,CONTRIBUTING.md,Makefile,4632,Organization,2014-05-29,2026-10-19,2772,Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md
+cerbos/cerbos,CONTRIBUTING.md,Go,4627,Organization,2021-03-21,2026-10-19,657,"Cerbos is an open-core authorization management platform for authorizing every identity and governing every action across applications, gateways, workloads, and AI agents."
+tmux-python/tmuxp,docs/project/contributing.md,Python,4588,Organization,2013-08-27,2026-10-17,81,"🖥️ Session manager for tmux, built on libtmux."
+DistroAV/DistroAV,CONTRIBUTING.md,C++,4577,Organization,2016-10-22,2026-10-16,81,DistroAV (formerly OBS-NDI): NDI integration for OBS Studio
+apache/fory,AI_POLICY.md,Java,4567,Organization,2023-04-28,2026-10-16,997,"A blazingly fast multi-language serialization framework for idiomatic domain objects, schema IDL, and cross-language data exchange."
+mikke89/RmlUi,AI_POLICY.md,C++,4534,User,2018-06-15,2026-10-17,60,RmlUi - The HTML/CSS User Interface library evolved
+PowerDNS/pdns,AI_POLICY.md,C++,4500,Organization,2013-04-26,2026-10-19,1580,"PowerDNS Authoritative, PowerDNS Recursor, dnsdist"
+trifectatechfoundation/sudo-rs,CONTRIBUTING.md,Rust,4482,Organization,2022-12-12,2026-10-14,250,A memory safe implementation of sudo and su.
+firebase/firebase-tools,src/mcp/CONTRIBUTING.md,TypeScript,4476,Organization,2013-12-23,2026-10-20,1507,The Firebase Command Line Tools
+crmne/ruby_llm,CONTRIBUTING.md,Ruby,4474,User,2025-01-30,2026-10-18,464,The Ruby AI framework.
+janet-lang/janet,CONTRIBUTING.md,C,4463,Organization,2017-03-10,2026-10-20,161,A dynamic language and bytecode vm
+sqlalchemy/alembic,.github/CONTRIBUTING.md,Python,4452,Organization,2018-11-27,2026-10-15,61,A database migrations tool for SQLAlchemy.
+hal9ai/awesome-dataviz,CONTRIBUTING.md,JavaScript,4436,Organization,2015-07-21,2026-10-16,38,A curated list of awesome data visualization libraries and resources.
+redpanda-data/console,CONTRIBUTING.md,TypeScript,4337,Organization,2019-09-29,2026-10-19,642,"Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing consumer groups, and exploring real-time data with time-travel debugging."
+kubernetes-sigs/cluster-api,CONTRIBUTING.md,Go,4336,Organization,2018-03-07,2026-10-19,1317,"Home for Cluster API, a subproject of sig-cluster-lifecycle"
+purpleidea/mgmt,docs/contributing.md,Go,4333,User,2015-09-25,2026-10-19,102,"Next generation distributed, event-driven, parallel config management!"
+camunda/camunda,testing/CONTRIBUTING.md,Java,4326,Organization,2016-03-20,2026-10-19,20031,Process Orchestration Framework
+mongodb-developer/GenAI-Showcase,CONTRIBUTING.md,Jupyter Notebook,4266,Organization,2024-01-30,2026-10-13,68,"MongoDB's Generative AI Showcase: an exhaustive collection of examples and sample applications covering Retrieval-Augmented Generation (RAG), AI agents, and industry-specific use cases."
+basicmachines-co/basic-memory,CONTRIBUTING.md,Python,4279,Organization,2024-12-02,2026-10-19,820,AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
+facebookincubator/velox,CONTRIBUTING.md,C++,4232,Organization,2021-07-23,2026-10-20,3873,A composable and fully extensible C++ execution engine library for data management systems.
+pydata/xarray,AI_POLICY.md,Python,4212,Organization,2013-09-30,2026-10-19,618,N-D labeled arrays and datasets in Python
+NVIDIA/GenerativeAIExamples,docs/contributing.md,Jupyter Notebook,4210,Organization,2023-10-19,2026-09-09,64,Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture.
+torchgeo/torchgeo,.github/AI_POLICY.md,Python,4208,Organization,2021-05-21,2026-10-18,1042,"TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data"
+solvespace/solvespace,CONTRIBUTING.md,C++,4203,Organization,2015-03-26,2026-10-20,96,Parametric 2d/3d CAD
+xemu-project/xemu,CONTRIBUTING.md,C,4204,Organization,2020-02-18,2026-10-19,330,"Original Xbox Emulator for Windows, macOS, and Linux (Active Development)"
+OpenTabletDriver/OpenTabletDriver,CONTRIBUTING.md,C#,4190,Organization,2019-09-30,2026-10-16,515,"Open source, cross-platform, user-mode tablet driver"
+uber/NullAway,CONTRIBUTING.md,Java,4124,Organization,2017-09-01,2026-10-20,461,A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead
+slskd/slskd,CONTRIBUTING.md,C#,4145,Organization,2020-12-30,2026-10-19,199,A modern client-server application for the Soulseek file sharing network.
+osrg/gobgp,CONTRIBUTING.md,Go,4116,Organization,2014-09-14,2026-10-20,467,BGP implemented in the Go Programming Language
+HiEventsDev/Hi.Events,CONTRIBUTING.md,PHP,4072,Organization,2023-10-24,2026-10-19,414,"Open-source event management and ticket selling platform — perfect for concerts, conferences, and everything in between 🎟️ If you find this project helpful, please consider giving us a star ⭐️"
+wild-linker/wild,CONTRIBUTING.md,Rust,4044,Organization,2024-02-04,2026-10-20,1315,A very fast linker for Linux
+datamodel-code-generator/datamodel-code-generator,docs/development-contributing.md,Python,4042,Organization,2019-05-29,2026-10-20,2015,"Generate Pydantic v2 models, dataclasses, TypedDict, and msgspec.Struct from OpenAPI, JSON Schema, GraphQL, Avro, Protobuf, and raw JSON/YAML/CSV."
+touchHLE/touchHLE,CONTRIBUTING.md,Rust,4024,Organization,2022-12-01,2026-10-13,35,"High-level emulator for early iOS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/touchHLE/touchHLE"
+rizinorg/rizin,CONTRIBUTING.md,C,4013,Organization,2020-09-30,2026-10-20,1260,UNIX-like reverse engineering framework and command-line toolset.
+TransformerLensOrg/TransformerLens,docs/source/content/contributing.md,Python,3982,Organization,2022-08-26,2026-10-19,625,A library for mechanistic interpretability of GPT-style language models
+cinnyapp/cinny,CONTRIBUTING.md,TypeScript,3937,Organization,2021-04-18,2026-10-19,305,Yet another matrix client
+Rdatatable/data.table,.github/CONTRIBUTING.md,R,3928,Organization,2014-06-07,2026-10-19,360,R's data.table package extends data.frame:
+jruby/jruby,CONTRIBUTING.md,Ruby,3922,Organization,2009-04-05,2026-10-19,486,"JRuby, an implementation of Ruby on the JVM"
+ddev/ddev,CONTRIBUTING.md,Go,3923,Organization,2017-02-01,2026-10-20,835,Docker-based local PHP+Node.js web development environments
+django-guardian/django-guardian,CONTRIBUTING.md,Python,3921,Organization,2010-06-04,2026-10-19,84,Per object permissions for Django
+microsoft/PhiCookBook,translations/pcm/CONTRIBUTING.md,Jupyter Notebook,3901,Organization,2024-05-07,2026-10-17,182,"This is a Phi Family of SLMs book for getting started with Phi Models. Phi a family of open sourced AI models developed by Microsoft. Phi models are the most capable and cost-effective small language models (SLMs) available, outperforming models of the same size and next size up across a variety of language, reasoning, coding, and math benchmarks"
+stickerdaniel/linkedin-mcp-server,.github/CONTRIBUTING.md,Python,3939,User,2025-04-13,2026-10-19,924,"Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI agent access to profiles, companies, jobs, and messages."
+neomutt/neomutt,docs/CONTRIBUTING.md,C,3853,Organization,2015-12-21,2026-10-19,224,✉️ Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat
+kube-rs/kube,CONTRIBUTING.md,Rust,3847,Organization,2018-11-11,2026-10-19,206,Rust Kubernetes client and controller runtime
+cilium/pwru,CONTRIBUTING.md,C,3843,Organization,2021-10-12,2026-10-16,116,"Packet, where are you? -- eBPF-based Linux kernel networking debugger"
+seanmorley15/AdventureLog,CONTRIBUTING.md,Svelte,3824,User,2024-03-29,2026-10-20,164,Self-hostable travel tracker and trip planner.
+KhronosGroup/Vulkan-Hpp,CONTRIBUTING.md,C++,3806,Organization,2016-06-16,2026-10-19,322,Open-Source Vulkan C++ API
+blacktop/ipsw,AI_POLICY.md,Go,3811,User,2018-08-25,2026-10-20,383,iOS/macOS Research Swiss Army Knife
+antonbabenko/pre-commit-terraform,.github/AI_POLICY.md,Shell,3788,User,2016-09-27,2026-10-13,69,pre-commit git hooks to take care of Terraform configurations 🇺🇦
+microsoft/mcp,CONTRIBUTING.md,C#,3788,Organization,2025-04-09,2026-10-20,2319,Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration
+PixelGuys/Cubyz,docs/CONTRIBUTING.md,Zig,3730,Organization,2019-02-04,2026-10-19,935,"Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects."
+brave/brave-core,CONTRIBUTING.md,C++,3693,Organization,2017-11-10,2026-10-20,8945,Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues
+mini-software/MiniExcel,CONTRIBUTING.md,C#,3650,Organization,2021-03-02,2026-10-19,97,"Lightweight, fast and native cross-platform processing tool for importing and exporting spreadsheet documents."
+copier-org/copier,AI_POLICY.md,Python,3646,Organization,2011-11-01,2026-10-18,421,Library and command-line utility for rendering projects templates.
+apache/arrow-rs,CONTRIBUTING.md,Rust,3641,Organization,2021-04-17,2026-10-20,2054,Official Rust implementation of Apache Arrow
+grafana/alloy,.github/CONTRIBUTING.md,Go,3623,Organization,2024-02-28,2026-10-20,2217,OpenTelemetry Collector distribution with programmable pipelines
+ytti/oxidized,CONTRIBUTING.md,Ruby,3615,User,2013-04-17,2026-10-19,191,Oxidized is a network device configuration backup tool. It's a RANCID replacement!
+KhronosGroup/glslang,CONTRIBUTING.md,C++,3597,Organization,2015-06-25,2026-10-19,314,"Khronos-reference front end for GLSL/ESSL, partial front end for HLSL, and a SPIR-V generator."
+pst-group/pysystemtrade,CONTRIBUTING.md,Python,3559,Organization,2015-11-27,2026-10-16,66,Systematic Trading in python
+unitycatalog/unitycatalog,AI_POLICY.md,Java,3554,Organization,2024-06-13,2026-10-19,765,"Open, Multi-modal Catalog for Data & AI"
+mne-tools/mne-python,CONTRIBUTING.md,Python,3557,Organization,2011-01-28,2026-10-19,771,MNE: Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python
+eclipse-openj9/openj9,CONTRIBUTING.md,Java,3547,Organization,2017-08-25,2026-10-19,1179,"Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput. Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo."
+eclipse-threadx/threadx,CONTRIBUTING.md,C,3545,Organization,2020-05-11,2026-10-19,244,Eclipse ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.
+vedderb/bldc,lispBM/lispBM/CONTRIBUTING.md,C,3515,User,2014-01-09,2026-10-19,62,The VESC motor control firmware
+dotnet/roslynator,CONTRIBUTING.md,C#,3488,Organization,2016-04-26,2026-10-04,86,"Roslynator is a set of code analysis tools for C#, powered by Roslyn."
+documentdb/documentdb,CONTRIBUTING.md,C,3467,Organization,2025-01-22,2026-10-19,230,"MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, and developer productivity."
+i-am-bee/beeai-framework,typescript/CONTRIBUTING.md,Python,3436,Organization,2024-08-23,2026-10-19,377,Build production-ready AI agents in both Python and Typescript.
+callstack/react-native-testing-library,CONTRIBUTING.md,TypeScript,3425,Organization,2018-10-01,2026-10-19,116,🦉 Simple and complete React Native testing utilities that encourage good testing practices.
+mierak/rmpc,CONTRIBUTING.md,Rust,3428,User,2024-03-12,2026-10-17,211,"A modern, configurable, terminal based MPD Client with album art support via various terminal image protocols"
+CollaboraOnline/online,CONTRIBUTING.md,Shell,3380,Organization,2020-10-01,2026-10-09,2047,Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.
+pgmpy/pgmpy,CONTRIBUTING.md,Python,3359,Organization,2013-09-20,2026-10-17,764,Python Toolkit for Causal and Probabilistic Reasoning
+Farama-Foundation/HighwayEnv,CONTRIBUTING.md,Python,3331,Organization,2017-11-15,2026-10-17,75,A collection of environments for autonomous driving and tactical decision-making tasks
+UI5/openui5,CONTRIBUTING.md,JavaScript,3319,Organization,2013-12-10,2026-10-19,40,"OpenUI5 lets you build enterprise-ready web applications, responsive to all devices, running on almost any browser of your choice."
+root-project/root,CONTRIBUTING.md,C++,3318,Organization,2013-06-27,2026-10-19,3174,"The official repository for ROOT: analyzing, storing and visualizing big data, scientifically"
+Genivia/ugrep,CONTRIBUTING.md,C++,3312,Organization,2019-04-29,2026-10-19,29,"🔍 ugrep 7.8 file pattern searcher -- a user-friendly, faster, more capable grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more"
+ikawrakow/ik_llama.cpp,CONTRIBUTING.md,C++,3311,User,2024-06-27,2026-10-19,1252,llama.cpp fork with additional SOTA quants and improved performance
+nix-community/nh,CONTRIBUTING.md,Rust,3309,Organization,2022-02-08,2026-10-19,237,"Yet another Nix CLI helper. [Maintainers=@NotAShelf, @faukah]"
+conversejs/converse.js,CONTRIBUTING.md,JavaScript,3300,Organization,2012-07-21,2026-10-19,244,Web-based XMPP/Jabber chat written in JavaScript
+neomjs/neo,CONTRIBUTING.md,JavaScript,3294,Organization,2019-11-10,2026-10-19,4714,"Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops."
+aliasvault/aliasvault,CONTRIBUTING.md,TypeScript,3294,Organization,2024-05-31,2026-10-19,585,Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.
+vortex-data/vortex,docs/project/contributing.md,Rust,3276,Organization,2024-02-27,2026-10-20,4732,"An extensible, state-of-the-art framework for columnar compression, and the fastest FOSS columnar file format. Formerly at @spiraldb, now an Incubation Stage project at LFAI&Data, part of the Linux Foundation."
+apache/gravitino,CONTRIBUTING.md,Java,3255,Organization,2023-04-23,2026-10-20,3061,"World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake."
+LeelaChessZero/lc0,CONTRIBUTING.md,C++,3248,Organization,2018-05-30,2026-10-19,146,Open source neural network chess engine with GPU acceleration and broad hardware support.
+avianphysics/avian,AI_POLICY.md,Rust,3248,Organization,2022-05-29,2026-10-20,133,ECS-driven 2D and 3D physics engine for the Bevy game engine.
+saga-soft/novelWriter,AI_POLICY.md,Python,3186,Organization,2018-09-22,2026-10-19,343,novelWriter is an open source plain text editor designed for writing novels
+DynamoRIO/dynamorio,CONTRIBUTING.md,C,3184,Organization,2014-11-27,2026-10-20,326,Dynamic Instrumentation Tool Platform
+nicotine-plus/nicotine-plus,CONTRIBUTING.md,Python,3182,Organization,2013-08-13,2026-10-18,253,Graphical client for the Soulseek peer-to-peer network
+openhwfoundation/cva6,CONTRIBUTING.md,Assembly,3164,Organization,2018-01-23,2026-10-19,298,"The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux."
+GitTools/GitVersion,CONTRIBUTING.md,C#,3150,Organization,2013-08-27,2026-10-19,559,From git log to SemVer in no time
+eclipse-paho/paho.mqtt.golang,CONTRIBUTING.md,Go,3131,Organization,2016-02-03,2026-09-29,28,
+korcankaraokcu/PINCE,CONTRIBUTING.md,Python,3130,User,2016-02-19,2026-09-18,26,Reverse engineering tool for Linux
+microsoft/Generative-AI-for-beginners-dotnet,CONTRIBUTING.MD,C#,3136,Organization,2025-01-10,2026-10-19,112,"Five lessons, learn how to really apply AI to your .NET Applications"
+open-quantum-safe/liboqs,CONTRIBUTING.md,C,3097,Organization,2016-08-12,2026-10-18,222,C library for prototyping and experimenting with quantum-resistant cryptography
+dotnet/vscode-csharp,CONTRIBUTING.md,TypeScript,3072,Organization,2015-12-03,2026-10-19,644,Official C# support for Visual Studio Code
+tsukinaha/tsukimi,CONTRIBUTING.md,Rust,3068,User,2024-03-04,2026-10-19,241,A simple third-party Jellyfin client for Linux
+pinecone-io/examples,CONTRIBUTING.md,Jupyter Notebook,3050,Organization,2021-03-09,2026-10-10,118,Jupyter Notebooks to help you get hands-on with Pinecone vector databases
+UKGovernmentBEIS/inspect_ai,CONTRIBUTING.md,Python,3044,Organization,2023-11-14,2026-10-19,2631,Inspect: A framework for large language model evaluations
+LibrePCB/LibrePCB,CONTRIBUTING.md,C++,3023,Organization,2015-06-19,2026-10-19,164,"A powerful, innovative and intuitive EDA suite for everyone!"
+pytorch/ao,AI_POLICY.md,Python,3008,Organization,2023-11-03,2026-10-19,1498,PyTorch native quantization for training and inference
+probe-rs/probe-rs,CONTRIBUTING.md,Rust,2979,Organization,2019-02-10,2026-10-19,754,A debugging toolset and library for debugging embedded ARM and RISC-V targets on a separate host
+haskell/haskell-language-server,docs/contributing/ai_policy.md,Haskell,2965,Organization,2020-01-25,2026-10-14,236,Official Haskell IDE support via the language server protocol (LSP)
+Pycord-Development/pycord,CONTRIBUTING.md,Python,2962,Organization,2021-08-28,2026-10-19,380,"Pycord is a modern, easy to use, feature-rich, and async ready API wrapper for Discord written in Python"
+supabase/mcp,CONTRIBUTING.md,TypeScript,2963,Organization,2024-12-20,2026-10-19,227,Connect Supabase to your AI assistants
+apache/grails-core,CONTRIBUTING.md,Groovy,2936,Organization,2010-02-10,2026-10-20,1176,Grails - the Web Application Framework
+kyrolabs/awesome-agents,CONTRIBUTING.md,,2932,Organization,2023-07-02,2026-10-20,707,🤖 Awesome list of AI Agents
+rnmapbox/maps,CONTRIBUTING.md,Kotlin,2920,Organization,2019-04-07,2026-10-19,190,A Mapbox react native module for creating custom maps
+chdb-io/chdb,CONTRIBUTING.md,Python,2920,Organization,2023-02-25,2026-10-13,167,chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse
+KhronosGroup/WebGL,CONTRIBUTING.md,HTML,2864,Organization,2012-07-27,2026-10-14,43,The Official Khronos WebGL Repository
+Card-Forge/forge,CONTRIBUTING.md,Java,2817,Organization,2022-04-10,2026-10-19,2520,An unofficial rules engine for the world's greatest card game.
+dgunning/edgartools,CONTRIBUTING.md,Python,2800,User,2022-12-24,2026-10-18,542,"Read and analyze SEC EDGAR filings in Python. 10-K, 8-K, XBRL financials, Form 3/4/5, 13F, ADV — clean API, well-typed, MIT-licensed."
+TASEmulators/BizHawk,contributing.md,C#,2797,Organization,2015-06-22,2026-10-16,85,"BizHawk is a multi-system emulator written in C#. BizHawk provides nice features for casual gamers such as full screen, and joypad support in addition to full rerecording and debugging tools for all system cores."
+libkrun/libkrun,CONTRIBUTING.md,Rust,2802,Organization,2020-08-13,2026-10-19,394,A dynamic library providing Virtualization-based process isolation capabilities
+postgres-ai/database-lab-engine,CONTRIBUTING.md,Go,2778,Organization,2020-06-09,2026-10-19,54,DBLab enables 🖖 database branching and ⚡️ thin cloning for any Postgres database and empowers DB testing in CI/CD. This optimizes database-related costs while improving time-to-market and software quality. Follow to stay updated.
+solana-foundation/solana-web3.js,CONTRIBUTING.md,TypeScript,2778,Organization,2018-08-22,2026-10-19,193,Solana JavaScript SDK
+stumpapp/stump,.github/CONTRIBUTING.md,TypeScript,2756,Organization,2021-12-30,2026-10-19,478,"A free and open source comics, manga and digital book server with OPDS support"
+elastic/detection-rules,CONTRIBUTING.md,Python,2725,Organization,2020-06-17,2026-10-20,1482,
+nteract/semiotic,CONTRIBUTING.md,TypeScript,2716,Organization,2017-03-16,2026-10-19,661,"React data visualization library for streaming, networks, and AI-assisted development"
+openai/openai-dotnet,CONTRIBUTING.md,C#,2713,Organization,2024-04-25,2026-10-19,495,The official .NET library for the OpenAI API
+rust-bitcoin/rust-bitcoin,CONTRIBUTING.md,Rust,2686,Organization,2014-07-18,2026-10-19,1467,Rust Bitcoin library
+gridaco/grida,packages/grida-cli/CONTRIBUTING.md,TypeScript,2686,Organization,2021-02-13,2026-10-19,507,Grida — Open Canvas
+bit-team/backintime,CONTRIBUTING.md,Python,2677,Organization,2015-10-11,2026-10-18,184,"A comfortable and well-configurable graphical Frontend for incremental backups, with a command-line version also available. Modified files are transferred, while unchanged files are linked to the new folder using rsync's hard link feature, saving storage space. Restoring is straightforward via file manager, command line or Back In Time itself."
+meltano/meltano,CONTRIBUTING.md,Python,2664,Organization,2021-06-21,2026-10-20,780,"Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations."
+jgromes/RadioLib,CONTRIBUTING.md,C++,2617,User,2018-03-05,2026-10-19,106,Universal wireless communication library for embedded devices
+spiffe/spire,CONTRIBUTING.md,Go,2582,Organization,2017-08-11,2026-10-18,822,The SPIFFE Runtime Environment
+Chatterino/chatterino2,CONTRIBUTING.md,C++,2584,Organization,2016-12-29,2026-10-19,599,Chat client for https://twitch.tv
+apache/fineract,CONTRIBUTING.md,Java,2561,Organization,2015-12-22,2026-10-19,1562,Apache Fineract
+KhronosGroup/SPIRV-Cross,CONTRIBUTING.md,GLSL,2532,Organization,2016-04-04,2026-10-14,115,SPIRV-Cross is a practical tool and library for performing reflection on SPIR-V and disassembling SPIR-V back to high level languages.
+BrighterCommand/Brighter,CONTRIBUTING.md,C#,2488,Organization,2011-01-05,2026-10-20,478,A framework for building messaging apps with .NET and C#.
+Satty-org/Satty,AI_POLICY.md,Rust,2462,Organization,2023-09-21,2026-10-18,267,Satty - Modern Screenshot Annotation.
+graphieros/vue-data-ui,AI_POLICY.md,Vue,2453,User,2023-07-24,2026-10-19,54,An open source user-empowering data visualization Vue 3 components library for eloquent data storytelling
+sodadata/soda-core,CONTRIBUTING.md,Python,2436,Organization,2020-12-14,2026-10-19,463,Data Contracts engine for the modern data stack. https://www.soda.io
+mkj/dropbear,CONTRIBUTING.md,C,2433,User,2013-03-19,2026-10-05,71,Dropbear SSH
+Microsoft365DSC/Microsoft365DSC,.github/CONTRIBUTING.md,PowerShell,2425,Organization,2018-11-21,2026-10-19,593,"Manages, configures, extracts and monitors Microsoft 365 tenant configurations"
+hapifhir/hapi-fhir,AI_POLICY.md,Java,2416,Organization,2014-06-24,2026-10-20,618,🔥 HAPI FHIR - Java API for HL7 FHIR Clients and Servers
+OPCFoundation/UA-.NETStandard,CONTRIBUTING.md,C#,2418,Organization,2016-02-12,2026-10-19,1075,OPC Unified Architecture .NET Standard
+agentuniverse-ai/agentUniverse,CONTRIBUTING.md,Python,2383,Organization,2024-04-23,2026-10-19,3082,agentUniverse is a LLM multi-agent framework that allows developers to easily build multi-agent applications.
+mike-bronner/laravel-model-caching,CONTRIBUTING.md,PHP,2376,Organization,2017-09-17,2026-10-16,81,Eloquent model-caching made easy.
+yudataguy/awesome-japanese,contributing.md,JavaScript,2379,User,2017-07-09,2026-10-01,80,Awesome Japanese Learning Resources
+alangrainger/immich-public-proxy,CONTRIBUTING.md,TypeScript,2360,User,2024-10-29,2026-10-19,41,Share your Immich photos and albums in a safe way without exposing your Immich instance to the public.
+Perl/perl5,AI_POLICY.md,Perl,2346,Organization,2013-02-13,2026-10-19,797,🐪 The Perl programming language
+rsyslog/rsyslog,CONTRIBUTING.md,C,2339,Organization,2013-06-03,2026-10-19,1197,High-performance log ingestion and ETL engine
+matrix-org/matrix-rust-sdk,CONTRIBUTING.md,Rust,2336,Organization,2020-02-21,2026-10-19,1267,Matrix Client-Server SDK for Rust
+cryfs/cryfs,AI_POLICY.md,Rust,2320,Organization,2015-09-12,2026-09-30,152,Cryptographic filesystem for the cloud
+color-js/color.js,CONTRIBUTING.md,JavaScript,2313,Organization,2020-04-19,2026-10-19,54,Color conversion & manipulation library by the editors of the CSS Color specifications
+tphakala/birdnet-go,CONTRIBUTING.md,Go,2316,User,2023-10-20,2026-10-20,2403,"Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi."
+lumeland/lume,CONTRIBUTING.md,TypeScript,2278,Organization,2020-09-07,2026-10-19,37,🔥🪰 Static site generator for Deno
+bpg/terraform-provider-proxmox,CONTRIBUTING.md,Go,2274,Organization,2021-09-07,2026-10-19,652,Terraform / OpenTofu Provider for Proxmox VE
+dynamoose/dynamoose,CONTRIBUTING.md,JavaScript,2250,Organization,2014-02-18,2026-10-11,57,Dynamoose is a modeling tool for Amazon's DynamoDB
+orchidjs/tom-select,CONTRIBUTING.md,JavaScript,2237,Organization,2020-08-13,2026-10-19,117,"Tom Select is a lightweight (~16kb gzipped) hybrid of a textbox and select box. Forked from selectize.js to provide a framework agnostic autocomplete widget with native-feeling keyboard navigation. Useful for tagging, contact lists, etc."
+theagentrouter/agent-router,CONTRIBUTING.md,Go,2246,Organization,2024-10-21,2026-10-19,1109,Manages Unified Access to Generative AI Services built on Envoy Gateway
+manyfold3d/manyfold,.github/CONTRIBUTING.md,Ruby,2207,Organization,2021-02-05,2026-10-20,2119,A self-hosted digital asset manager for 3d print files.
+ferronweb/ferron,CONTRIBUTING.md,Rust,2172,Organization,2025-02-09,2026-10-17,691,"A fast, modern web server built for production debugging."
+apache/tinkerpop,CONTRIBUTING.md,Java,2149,Organization,2015-02-07,2026-10-19,483,Apache TinkerPop - a graph computing framework
+jdbi/jdbi,CONTRIBUTING.md,Java,2142,Organization,2009-06-17,2026-10-16,145,"The Jdbi library provides convenient, idiomatic access to relational databases in Java and other JVM technologies such as Kotlin, Clojure or Scala."
+fr3ts0n/AndrOBD,CONTRIBUTING.md,Java,2145,User,2015-05-23,2026-10-19,43,Android OBD diagnostics with any ELM327 adapter
+feldera/feldera,AI_POLICY.md,Rust,2127,Organization,2023-05-11,2026-10-20,1685,The Feldera Incremental Computation Engine
+oss-review-toolkit/ort,AI_POLICY.md,Kotlin,2106,Organization,2017-10-19,2026-10-19,1477,A suite of tools to automate software compliance checks.
+stryker-mutator/stryker-net,CONTRIBUTING.md,C#,2106,Organization,2018-06-06,2026-10-18,468,Mutation testing for .NET core and .NET framework!
+apache/polaris,CONTRIBUTING.md,Java,2094,Organization,2024-05-29,2026-10-19,2639,"Apache Polaris, the interoperable, open source catalog for Apache Iceberg"
+PlakarKorp/plakar,CONTRIBUTING.md,Go,2092,Organization,2021-03-19,2026-10-20,526,plakar is a backup solution powered by Kloset and ptar
+SubnauticaNitrox/Nitrox,CONTRIBUTING.md,C#,2081,Organization,2017-06-25,2026-09-28,233,"An open-source, multiplayer modification for the game Subnautica."
+LedFx/LedFx,docs/contributing.md,Python,2077,Organization,2020-12-18,2026-10-19,442,LedFx is a network based LED effect engine designed to deliver advanced real-time audio effects to a wide variety of devices.
+saltbo/zpan,CONTRIBUTING.md,TypeScript,2077,User,2019-09-28,2026-10-01,337,Lightweight file hosting platform built on top of S3-compatible storage
+kanriapp/kanri,CONTRIBUTING.md,Vue,2067,Organization,2022-05-20,2026-10-17,37,"Modern offline Kanban board app for Windows, MacOS and Linux made with Tauri and Nuxt. Built with simplicity and user experience in mind."
+trycompai/comp,CONTRIBUTING.md,TypeScript,2046,Organization,2025-01-15,2026-10-09,1898,AI Native platform to get companies compliant - Vanta & Drata Alternative
+JurajNyiri/HomeAssistant-Tapo-Control,CONTRIBUTING.md,Python,2024,User,2020-10-01,2026-10-12,48,Control for Tapo cameras as a Home Assistant component
+doobidoo/mcp-memory-service,CONTRIBUTING.md,Python,2024,User,2024-12-26,2026-10-19,947,"Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation."
+64bit/async-openai,CONTRIBUTING.md,Rust,2018,User,2022-11-11,2026-10-10,99,Rust library for OpenAI
+Yoast/wordpress-seo,.github/CONTRIBUTING.md,JavaScript,2007,Organization,2012-11-16,2026-10-19,844,Yoast SEO for WordPress
+openmm/openmm,AI_POLICY.md,C++,2004,Organization,2013-05-20,2026-10-16,196,OpenMM is a toolkit for molecular simulation using high performance GPU code.
+modelcontextprotocol/java-sdk,CONTRIBUTING.md,Java,3743,Organization,2025-01-20,2026-10-16,357,The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI

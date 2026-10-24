@@ -1,0 +1,5 @@
+sample,repositories,median_post_weeks,median_weekly_prs_pre,median_weekly_contributors_pre
+comparison,102,25.5,3.75,4.423076923076923
+permissive,34,28.0,7.971153846153847,7.788461538461538
+restrictive,34,28.0,3.0096153846153846,4.836538461538462
+banned,34,25.0,3.7596153846153846,6.288461538461538

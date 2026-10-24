@@ -1,0 +1,23 @@
+schema_version: 1
+primary_panel: repository_week
+
+horizons:
+  medium_run_days: 180
+  long_run_days: 365
+
+eligibility:
+  activity_basis: pre_policy_only
+  # No minimum number of pre-adoption pull requests is applied.
+  min_pre_policy_prs: null
+
+treatment:
+  # Adoption is dated by the hand-verified reported_policy_date in
+  # data/repositories/sampled_policy_repos.csv.
+  anchor_event: reported_policy_date
+
+data:
+  manual: data/repositories     # repository lists
+  raw: data/raw                 # API responses (created by the collectors)
+  interim: data/interim         # per-repository collections (created by the collectors)
+  processed: data               # panels/ and results/ live here
+  state: data/state

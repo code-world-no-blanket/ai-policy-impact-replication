@@ -1,0 +1,85 @@
+\begin{tikzpicture}[font=\scriptsize]
+\definecolor{effect}{HTML}{2A78D6}
+\definecolor{neutral}{HTML}{6B6A63}
+\definecolor{grid}{HTML}{E4E3DD}
+\definecolor{typepermissive}{HTML}{1BAF7A}
+\definecolor{typerestrictive}{HTML}{EB6834}
+\definecolor{typebanned}{HTML}{2A78D6}
+\draw[grid, line width=0.3pt] (1.600,0) -- (1.600,1.500);
+\node[anchor=north, text=neutral] at (1.600,-0.04) {$-1$};
+\draw[grid, line width=0.3pt] (2.700,0) -- (2.700,1.500);
+\node[anchor=north, text=neutral] at (2.700,-0.04) {$-0.5$};
+\draw[grid, line width=0.3pt] (3.800,0) -- (3.800,1.500);
+\node[anchor=north, text=neutral] at (3.800,-0.04) {0};
+\draw[grid, line width=0.3pt] (4.900,0) -- (4.900,1.500);
+\node[anchor=north, text=neutral] at (4.900,-0.04) {0.5};
+\draw[neutral, line width=0.5pt] (3.800,0) -- (3.800,1.500);
+\draw[typepermissive, line width=1pt] (2.346,1.250) -- (4.242,1.250);
+\fill[typepermissive] (3.294,1.250) circle (1.6pt);
+\node[anchor=east] at (1.500,1.250) {Permissive};
+\draw[typerestrictive, line width=1pt] (2.320,0.750) -- (4.380,0.750);
+\fill[typerestrictive] (3.350,0.750) circle (1.6pt);
+\node[anchor=east] at (1.500,0.750) {Restrictive};
+\draw[typebanned, line width=1pt] (1.888,0.250) -- (3.799,0.250);
+\fill[typebanned] (2.843,0.250) circle (1.6pt);
+\node[anchor=east] at (1.500,0.250) {Banned};
+\node[anchor=base, font=\footnotesize] at (3.250,1.650) {PRs opened};
+\node[anchor=north] at (3.250,-0.4) {Effect (log points)};
+\draw[grid, line width=0.3pt] (5.900,0) -- (5.900,1.500);
+\node[anchor=north, text=neutral] at (5.900,-0.04) {$-1$};
+\draw[grid, line width=0.3pt] (6.725,0) -- (6.725,1.500);
+\node[anchor=north, text=neutral] at (6.725,-0.04) {$-0.5$};
+\draw[grid, line width=0.3pt] (7.550,0) -- (7.550,1.500);
+\node[anchor=north, text=neutral] at (7.550,-0.04) {0};
+\draw[grid, line width=0.3pt] (8.375,0) -- (8.375,1.500);
+\node[anchor=north, text=neutral] at (8.375,-0.04) {0.5};
+\draw[grid, line width=0.3pt] (9.200,0) -- (9.200,1.500);
+\node[anchor=north, text=neutral] at (9.200,-0.04) {1};
+\draw[neutral, line width=0.5pt] (7.550,0) -- (7.550,1.500);
+\draw[typepermissive, line width=1pt] (6.313,1.250) -- (7.846,1.250);
+\fill[typepermissive] (7.080,1.250) circle (1.6pt);
+\draw[typerestrictive, line width=1pt] (6.662,0.750) -- (8.516,0.750);
+\fill[typerestrictive] (7.589,0.750) circle (1.6pt);
+\draw[typebanned, line width=1pt] (6.371,0.250) -- (7.743,0.250);
+\fill[typebanned] (7.057,0.250) circle (1.6pt);
+\node[anchor=base, font=\footnotesize] at (7.550,1.650) {Hours to first review};
+\node[anchor=north] at (7.550,-0.4) {Effect (log points)};
+\draw[grid, line width=0.3pt] (10.200,0) -- (10.200,1.500);
+\node[anchor=north, text=neutral] at (10.200,-0.04) {$-0.4$};
+\draw[grid, line width=0.3pt] (11.025,0) -- (11.025,1.500);
+\node[anchor=north, text=neutral] at (11.025,-0.04) {$-0.2$};
+\draw[grid, line width=0.3pt] (11.850,0) -- (11.850,1.500);
+\node[anchor=north, text=neutral] at (11.850,-0.04) {0};
+\draw[grid, line width=0.3pt] (12.675,0) -- (12.675,1.500);
+\node[anchor=north, text=neutral] at (12.675,-0.04) {0.2};
+\draw[grid, line width=0.3pt] (13.500,0) -- (13.500,1.500);
+\node[anchor=north, text=neutral] at (13.500,-0.04) {0.4};
+\draw[neutral, line width=0.5pt] (11.850,0) -- (11.850,1.500);
+\draw[typepermissive, line width=1pt] (11.441,1.250) -- (13.009,1.250);
+\fill[typepermissive] (12.225,1.250) circle (1.6pt);
+\draw[typerestrictive, line width=1pt] (11.540,0.750) -- (12.612,0.750);
+\fill[typerestrictive] (12.076,0.750) circle (1.6pt);
+\draw[typebanned, line width=1pt] (10.758,0.250) -- (12.333,0.250);
+\fill[typebanned] (11.545,0.250) circle (1.6pt);
+\node[anchor=base, font=\footnotesize] at (11.850,1.650) {Active contributors};
+\node[anchor=north] at (11.850,-0.4) {Effect (log points)};
+\draw[grid, line width=0.3pt] (14.500,0) -- (14.500,1.500);
+\node[anchor=north, text=neutral] at (14.500,-0.04) {$-0.5$};
+\draw[grid, line width=0.3pt] (15.325,0) -- (15.325,1.500);
+\node[anchor=north, text=neutral] at (15.325,-0.04) {$-0.25$};
+\draw[grid, line width=0.3pt] (16.150,0) -- (16.150,1.500);
+\node[anchor=north, text=neutral] at (16.150,-0.04) {0};
+\draw[grid, line width=0.3pt] (16.975,0) -- (16.975,1.500);
+\node[anchor=north, text=neutral] at (16.975,-0.04) {0.25};
+\draw[grid, line width=0.3pt] (17.800,0) -- (17.800,1.500);
+\node[anchor=north, text=neutral] at (17.800,-0.04) {0.5};
+\draw[neutral, line width=0.5pt] (16.150,0) -- (16.150,1.500);
+\draw[typepermissive, line width=1pt] (15.401,1.250) -- (17.649,1.250);
+\fill[typepermissive] (16.525,1.250) circle (1.6pt);
+\draw[typerestrictive, line width=1pt] (16.092,0.750) -- (17.526,0.750);
+\fill[typerestrictive] (16.809,0.750) circle (1.6pt);
+\draw[typebanned, line width=1pt] (15.319,0.250) -- (17.779,0.250);
+\fill[typebanned] (16.549,0.250) circle (1.6pt);
+\node[anchor=base, font=\footnotesize] at (16.150,1.650) {First-time PR authors};
+\node[anchor=north] at (16.150,-0.4) {Effect (log points)};
+\end{tikzpicture}

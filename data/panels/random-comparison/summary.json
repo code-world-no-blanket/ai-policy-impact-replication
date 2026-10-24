@@ -1,0 +1,16 @@
+{
+  "schema_version": 2,
+  "candidates_file": "data/repositories/sampled_policy_repos.csv",
+  "comparison_file": "data/repositories/random_comparison_repos.csv",
+  "priority": "evaluation",
+  "anchor_event": "reported_policy_date",
+  "weeks_before": 52,
+  "weeks_after": 52,
+  "rows": 16210,
+  "repositories": 204,
+  "complete": 203,
+  "partial": 1,
+  "skipped": 0,
+  "policy_types_coded": 102,
+  "output_directory": "data/panels/random-comparison"
+}
