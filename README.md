@@ -66,7 +66,7 @@ Each panel folder holds:
 | Figure 1 (event study) | `.../figures/event_study.tex`, values in `event_study.csv` |
 | Table V and Figure 2 (policy types) | `.../tables/policy_types.tex`, `.../figures/policy_types.tex`, values in `policy_types.csv` |
 | Table VI (three designs and pre-trend tests) | `.../tables/designs.tex`, values in `effects.csv` and `pretrends.csv` |
-| Table VII (balance) | `.../tables/balance.tex`, `balance.csv` |
+| Balance before and after reweighting (alternative design 1; not shown in the paper) | `.../tables/balance.tex`, `balance.csv` |
 | Robustness checks i to iv | `effects.csv` (`model` = `log1p_ols` and `p_wild_bootstrap`; `design` = `comparison_weighted` and `stacked`) |
 | Robustness check v | `data/results/random-comparison/effects.csv`, rows with `design` = `comparison` |
 
@@ -80,7 +80,7 @@ Requires Python 3.12 and [uv](https://docs.astral.sh/uv/).
 uv sync --group analysis
 uv run --group analysis python -m unittest discover -s tests
 
-# Tables III to VII and Figures 1 and 2 (the wild bootstrap takes a while; --bootstrap-reps 0 skips it)
+# Tables III to VI and Figures 1 and 2 (the wild bootstrap takes a while; --bootstrap-reps 0 skips it)
 uv run --group analysis aip analyze --panel data/panels/matched-comparison \
     --main-design comparison --no-paper
 

@@ -164,7 +164,7 @@ class AnalysisTests(unittest.TestCase):
             self.assertIn(r"\begin{tikzpicture}",
                           (paper / "figures" / "policy_types.tex").read_text())
             self.assertIn(r"\toprule", (paper / "tables" / "effects.tex").read_text())
-            self.assertIn("Weighted comparison",
+            self.assertIn("Reweighted matched",
                           (paper / "tables" / "designs.tex").read_text())
 
 

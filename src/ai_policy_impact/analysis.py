@@ -614,6 +614,12 @@ def signed(value: float, digits: int = 1) -> str:
     return f"${value:+.{digits}f}$"
 
 
+def percent_cell(pct: float, p: float) -> str:
+    """A signed percentage change with significance stars, for the summary tables."""
+    mark = stars(p)
+    return f"${pct * 100:+.1f}\\%" + (f"^{{{mark}}}" if mark else "") + "$"
+
+
 def latex_effects(effects: pd.DataFrame) -> str:
     """Main PPML effects, grouped as primary, secondary workflow (RQ1) and
     secondary engagement (RQ2); Holm p in parentheses for primary outcomes."""
@@ -648,7 +654,8 @@ def latex_effects(effects: pd.DataFrame) -> str:
 def latex_policy_types(types: pd.DataFrame) -> str:
     lines = [
         r"\begin{tabular}{lrrrr}", r"\toprule",
-        r"Outcome & Permissive & Restrictive & Banned & Trend \\", r"\midrule",
+        r"Outcome & Permissive & Restrictive & Banned & Strictness trend \\",
+        r"\midrule",
     ]
     for outcome in [o for o in PRIMARY if o in set(types["outcome"])]:
         part = types[types["outcome"] == outcome].set_index("term")
@@ -656,7 +663,7 @@ def latex_policy_types(types: pd.DataFrame) -> str:
         for term in [*POLICY_TYPES, "strictness trend"]:
             if term in part.index and pd.notna(part.loc[term, "estimate"]):
                 row = part.loc[term]
-                cells.append(f"{row['pct']:+.1%}{stars(row['p'])}".replace("%", r"\%"))
+                cells.append(percent_cell(row["pct"], row["p"]))
             else:
                 cells.append("--")
         lines.append(f"{OUTCOMES[outcome][1]} & " + " & ".join(cells) + r" \\")
@@ -684,18 +691,19 @@ def latex_designs(
 ) -> str:
     """Primary PPML effects under each design, with the pre-trend test p-value;
     the main design comes first and is labelled as such."""
-    names = {"stacked": "Later adopters", "comparison_weighted": "Weighted comparison",
-             "comparison": "Unweighted comparison"}
+    names = {"comparison": "Matched", "comparison_weighted": "Reweighted matched",
+             "stacked": "Later adopters"}
     if main in names:
         names[main] += " (main)"
-    designs = [d for d in DESIGNS if d in set(effects["design"])]
+    order = ["comparison", "comparison_weighted", "stacked"]
+    designs = [d for d in order if d in set(effects["design"])]
     if main in designs:
         designs = [main] + [d for d in designs if d != main]
     lines = [
         r"\begin{tabular}{l" + "rr" * len(designs) + "}", r"\toprule",
         " & " + " & ".join(rf"\multicolumn{{2}}{{c}}{{{names[d]}}}" for d in designs)
         + r" \\",
-        "Outcome & " + " & ".join([r"Effect & $p_{\text{pre}}$"] * len(designs))
+        "Outcome & " + " & ".join([r"Change & $p_{\text{pre}}$"] * len(designs))
         + r" \\",
         r"\midrule",
     ]
@@ -706,11 +714,11 @@ def latex_designs(
             row = main[(main["design"] == design) & (main["outcome"] == outcome)]
             pre = pretrends[(pretrends["design"] == design)
                             & (pretrends["outcome"] == outcome)]
-            effect = (f"{row['pct'].item():+.1%}{stars(row['p'].item())}"
+            effect = (percent_cell(row["pct"].item(), row["p"].item())
                       if len(row) else "--")
             pre_p = (f"{pre['p'].item():.3f}"
                      if len(pre) and "p" in pre and pd.notna(pre["p"].item()) else "--")
-            cells += [effect.replace("%", r"\%"), pre_p]
+            cells += [effect, pre_p]
         lines.append(f"{OUTCOMES[outcome][1]} & " + " & ".join(cells) + r" \\")
     lines += [r"\bottomrule", r"\end{tabular}"]
     return "\n".join(lines) + "\n"
